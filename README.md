@@ -1,4 +1,4 @@
-# Ad-BlockList-2019-08-31
+# Mr.Waste's Ad-BlockList-2019-08-31
 
 
 https://r6---sn-a5mekney.googlevideo.com/generate_204

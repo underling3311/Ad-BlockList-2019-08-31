@@ -706,7 +706,7 @@ stats.g.doubleclick.net
 adclick.g.douclick.net
 
 
-//https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+#https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 
 adjust.io
 airbrake.io

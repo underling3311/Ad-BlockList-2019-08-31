@@ -1,5 +1,23 @@
+#Adguard JS
+
 https://matomo.adguard.com/piwik.js
 
+#Fox New JS
+
+https://cdn.optimizely.com/js/8166517940.js
+https://static.chartbeat.com/js/chartbeat_mab.js
+https://static.criteo.net/js/ld/ld.js
+https://global.fncstatic.com/static/isa/app/lib/google-funding-choices.js
+https://global.fncstatic.com/static/isa/app/lib/prebid.js
+https://cdn.taboola.com/libtrc/foxnews-sc/tfa.js
+https://cdn.taboola.com/libtrc/foxnews-foxnews/loader.js
+https://bat.bing.com/bat.js
+https://c.amazon-adsystem.com/bao-csm/aps-comm/aps_csm.js
+https://c.amazon-adsystem.com/e/dtb/bid?src=3023&u=https%3A%2F%2Fwww.foxnews.com%2F&pid=xo17WIjuNaqbH&cb=0&ws=1920x941&v=7.45.00&t=1000&slots=%5B%7B%22sd%22%3A%220%22%2C%22s%22%3A%5B%2288x31%22%5D%2C%22sn%22%3A%22%2F4145%2Ffnc%2Froot%22%7D%2C%7B%22sd%22%3A%221%22%2C%22s%22%3A%5B%22970x250%22%2C%22970x66%22%2C%22728x90%22%5D%2C%22sn%22%3A%22%2F4145%2Ffnc%2Froot%22%7D%2C%7B%22sd%22%3A%222%22%2C%22s%22%3A%5B%22300x250%22%2C%22300x600%22%5D%2C%22sn%22%3A%22%2F4145%2Ffnc%2Froot%22%7D%2C%7B%22sd%22%3A%223%22%2C%22s%22%3A%5B%22300x251%22%5D%2C%22sn%22%3A%22%2F4145%2Ffnc%2Froot%22%7D%5D&gdprl=%7B%22status%22%3A%22no-cmp%22%7D
+https://static.chartbeat.com/js/chartbeat.js
+https://cdn.krxd.net/controltag/r2ek6uly2.js
+https://sb.scorecardresearch.com/beacon.js
+https://ma102-r.analytics.edgekey.net/config/beacon-4908.xml?setVideoObject=1
 
 
 

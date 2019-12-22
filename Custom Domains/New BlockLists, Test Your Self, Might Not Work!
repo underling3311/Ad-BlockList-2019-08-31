@@ -13,3 +13,6 @@ https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt
 
 #Zum blockieren von Ads in Apps auf iOS und Android
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt
+
+#Zum blockieren von Werbung auf SmartTVs (HbbTV und co.)
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/smarttv.txt

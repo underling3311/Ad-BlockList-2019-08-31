@@ -2,3 +2,9 @@ https://someonewhocares.org/hosts/zero/hosts
 https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&startdate%255Bday%255D=&startdate%255Bmonth%255D=&startdate%255Byear%255D=&useip=0.0.0.0
 http://winhelp2002.mvps.org/hosts.txt
+
+
+
+
+#Might Not Work!
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt

@@ -7,4 +7,9 @@ http://winhelp2002.mvps.org/hosts.txt
 
 
 #Might Not Work!
+
+#Zum blockieren von Tracking und Informationen, die Windows sammelt
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt
+
+#Zum blockieren von Ads in Apps auf iOS und Android
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/mobile.txt

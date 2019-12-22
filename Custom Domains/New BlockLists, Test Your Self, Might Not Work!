@@ -20,3 +20,12 @@ https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/smarttv.txt
 
 #Block Yotube Ads, Might Break YouTube!
 https://raw.githubusercontent.com/kboghdady/youTube_ads_4_pi-hole/master/youtubelist.txt
+
+#Reddit Post
+https://blocklist.kowabit.de/list.txt
+
+#1 Million Domains
+#https://firebog.net/
+
+#Trying Out This for right now; (12/21/19)
+https://v.firebog.net/hosts/Easyprivacy.txt

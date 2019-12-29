@@ -3,7 +3,8 @@ https://www.malwaredomainlist.com/hostslist/hosts.txt
 https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&startdate%255Bday%255D=&startdate%255Bmonth%255D=&startdate%255Byear%255D=&useip=0.0.0.0
 http://winhelp2002.mvps.org/hosts.txt
 
-
+#Check This One Out, Need to still test!
+https://discourse.pi-hole.net/t/update-the-best-blocking-lists-for-the-pi-hole-alternative-dns-servers-2019/13620
 
 
 #Might Not Work!

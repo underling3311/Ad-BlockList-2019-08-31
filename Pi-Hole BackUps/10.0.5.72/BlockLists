@@ -34,7 +34,6 @@ https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_hide.txt	
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty.txt	
 https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt	
-https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Mircosoft%20Trackers	
 https://www.encrypt-the-planet.com/downloads/hosts	
 https://www.github.developerdan.com/hosts/lists/amp-hosts-extended.txt	
 https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt	
@@ -60,4 +59,5 @@ http://winhelp2002.mvps.org/hosts.txt
 https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Custom%20Domains/Custom%2C%20Brave	
 https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt	
 https://v.firebog.net/hosts/static/SamsungSmart.txt	
-https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt
+https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt	
+https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Custom%20Domains/Mircosoft%20Trackers

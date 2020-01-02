@@ -1,7 +1,44 @@
 #List Updated (12/20/19)
 #Created By Mr. Waste
 
+#Website that has graph.facebook.com on the list and others might/ should be block for security reasons.
+#(setting.rayjump.com) ~ Rayjump.com is browser hijacker that is designed to redirect the users to malicious/unreliable sites. 
+#It replaces the default browser, redirects browser searches and changes the security settings.
+#Website Link:
+#https://www.joesandbox.com/analysis/42559/0/executive#
 
+setting.rayjump.com
+#a.applovin.com
+#ipinfo.io
+#d.applovin.com
+#rt.applovin.com
+graph.facebook.com
+#api.POWERMASTER.CLUB
+
+
+#Various Google Play ‘Beauty Camera’ Apps Send Users Pornographic Content, Redirect Them to Phishing Websites and Collect Their Pictures
+#https://www.reddit.com/r/netsec/comments/amcqi7/various_google_play_beauty_camera_apps_send_users/
+
+ads.aerserv.com
+ads.avocarrot.com
+ads30.adcolony.com
+adc3-launch.adcolony.com
+events3alt.adcolony.com
+wd.adcolony.com
+events3alt.adcolony.com
+adserver.unityads.unity3d.com
+d.applvn.com
+app.appsflyer.com
+config.unityads.unity3d.com
+a.applvn.com
+admin.appnext.com
+auction.unityads.unity3d.com
+rt.applovin.com
+live.chartboost.com
+v2.chartboost.com
+rt.applvn.com
+
+webview.unityads.unity3d.com
 
 #What the Fuck is wrong with me, I am allowing these domains to go through on my white list!
 Updated ~ (1/2/20)

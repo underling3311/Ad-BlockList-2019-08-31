@@ -15,6 +15,14 @@ setting.rayjump.com
 graph.facebook.com
 #api.POWERMASTER.CLUB
 
+#Windows 7, 8, and 10: Now all collecting user data for Microsoft
+#https://www.infoworld.com/article/2979054/windows-7-8-10-now-all-collecting-user-data-for-microsoft.html
+win.data.microsoft.com 
+settings-win.data.microsoft.com
+v10.vortex-win.data.microsoft.com
+v10.events.data.microsoft.com
+v20.events.data.microsoft.com
+
 
 #Various Google Play ‘Beauty Camera’ Apps Send Users Pornographic Content, Redirect Them to Phishing Websites and Collect Their Pictures
 #https://www.reddit.com/r/netsec/comments/amcqi7/various_google_play_beauty_camera_apps_send_users/

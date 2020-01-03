@@ -1,0 +1,147 @@
+#Mining Pool Hub
+#Updated ~ (1/2/20)
+
+
+adzcoin.miningpoolhub.com
+auroracoin-qubit.miningpoolhub.com
+bitcoin-cash.miningpoolhub.com
+bitcoin-gold.miningpoolhub.com
+bitcoin-private.miningpoolhub.com
+bitcoin.miningpoolhub.com
+dash.miningpoolhub.com
+digibyte-groestl.miningpoolhub.com
+digibyte-qubit.miningpoolhub.com
+digibyte-skein.miningpoolhub.com
+electroneum.miningpoolhub.com
+ethereum-classic.miningpoolhub.com
+ethereum.miningpoolhub.com
+expanse.miningpoolhub.com
+feathercoin.miningpoolhub.com
+gamecredits.miningpoolhub.com
+globalboosty.miningpoolhub.com
+groestlcoin.miningpoolhub.com
+litecoin.miningpoolhub.com
+maxcoin.miningpoolhub.com
+monacoin.miningpoolhub.com
+monero.miningpoolhub.com
+musicoin.miningpoolhub.com
+myriadcoin-groestl.miningpoolhub.com
+myriadcoin-yescrypt.miningpoolhub.com
+sexcoin.miningpoolhub.com
+siacoin.miningpoolhub.com
+startcoin.miningpoolhub.com
+verge-scrypt.miningpoolhub.com
+vertcoin.miningpoolhub.com
+zcash.miningpoolhub.com
+zclassic.miningpoolhub.com
+zcoin.miningpoolhub.com
+zencash.miningpoolhub.com
+
+#(Windows) Some domains you might want to whitelist:
+#https://www.reddit.com/r/pihole/comments/7vqp28/does_pihole_block_100_windows_10_telemetry/
+#Updated ~ (1/2/20)
+
+#Logging in to Microsoft services:
+login.live.com
+
+#Maps app/location services (find my device, auto night light):
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+geo-prod.do.dsp.mp.microsoft.com
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+
+#Office:
+c.s-microsoft.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
+i.s-microsoft.com
+officeclient.microsoft.com
+outlook.office365.com
+products.office.com
+
+#Xbox (also used by Microsoft Store games like Minecraft):
+attestation.xboxlive.com
+cert.mgt.xboxlive.com
+def-vef.xboxlive.com
+device.auth.xboxlive.com
+eds.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+notify.xboxlive.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+www.xboxlive.com
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xbolive.com
+xsts.auth.xboxlive.com
+
+#Windows Updates/Microsoft Store (app updates):
+ctldl.windowsupdate.com
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+sls.update.microsoft.com
+
+#Network connectivity:
+msftncsi.com
+dns.msftncsi.com
+ipv6.msftncsi.com
+www.msftncsi.com
+
+#Miscellaneous:
+answers.microsoft.com #(not directly used by Windows but helpful if searching for Windows help online)
+support.microsoft.com #(see answers.microsoft.com)
+settings-win.data.microsoft.com #(sync Windows settings)
+g.live.com #(backup Bitlocker key to Microsoft account)
+
+
+#List in One
+login.live.com
+dev.virtualearth.net
+ecn.dev.virtualearth.net
+geo-prod.do.dsp.mp.microsoft.com
+t0.ssl.ak.dynamic.tiles.virtualearth.net
+t0.ssl.ak.tiles.virtualearth.net
+c.s-microsoft.com
+nexus.officeapps.live.com
+nexusrules.officeapps.live.com
+i.s-microsoft.com
+officeclient.microsoft.com
+outlook.office365.com
+products.office.com
+attestation.xboxlive.com
+cert.mgt.xboxlive.com
+def-vef.xboxlive.com
+device.auth.xboxlive.com
+eds.xboxlive.com
+help.ui.xboxlive.com
+licensing.xboxlive.com
+notify.xboxlive.com
+title.auth.xboxlive.com
+title.mgt.xboxlive.com
+www.xboxlive.com
+xbox.ipv6.microsoft.com
+xboxexperiencesprod.experimentation.xboxlive.com
+xflight.xboxlive.com
+xkms.xbolive.com
+xsts.auth.xboxlive.com
+ctldl.windowsupdate.com
+displaycatalog.mp.microsoft.com
+dl.delivery.mp.microsoft.com
+sls.update.microsoft.com
+msftncsi.com
+dns.msftncsi.com
+ipv6.msftncsi.com
+www.msftncsi.com
+answers.microsoft.com
+support.microsoft.com
+settings-win.data.microsoft.com
+g.live.com
+
+
+
+
+
+

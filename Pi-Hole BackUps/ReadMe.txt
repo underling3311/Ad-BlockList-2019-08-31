@@ -1,17 +1,22 @@
-#List Updated ~ (12/29/19)
+#List Created ~ (12/29/19)
+#Added Folders ~ (1/6/20)
 
 
 #10.0.5.70
-#Updated ~ (12/29/19)
+#Created ~ (12/29/19)
+#Added Folders ~ (1/6/20)
 
 
 #10.0.5.71
-#Updated ~ (12/29/19)
+#Created ~ (12/29/19)
+#Added Folders ~ (1/6/20)
 
 
 #10.0.5.72
-#Updated ~ (12/29/19)
+#Created ~ (12/29/19)
+#Added Folders ~ (1/6/20)
 
 
 #10.0.5.73
-#Updated ~ (12/29/19)
+#Created ~ (12/29/19)
+#Added Folders ~ (1/6/20)

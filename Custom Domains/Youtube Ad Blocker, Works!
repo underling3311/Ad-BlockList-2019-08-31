@@ -1,5 +1,10 @@
 #https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt
 
+#Other People's Youtube Ad Block List, Still need to test!!
+#https://raw.githubusercontent.com/HenningVanRaumle/pihole-ytadblock/master/ytadblock.txt
+#https://api.hackertarget.com/hostsearch/?q=googlevideo.com
+
+
 #White Listing Correct Non Ads from Youtube
 
 #r4---sn-n4v7knlz.googlevideo.com

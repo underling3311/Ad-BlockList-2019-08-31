@@ -8,10 +8,12 @@
 #White Listing Correct Non Ads from Youtube
 
 #r4---sn-n4v7knlz.googlevideo.com
-
+#r2---sn-a5mlrn76.googlevideo.com
 
 # Check This OUT!!!! https://raw.githubusercontent.com/nickspaargaren/pihole-google/master/pihole-google.txt
 
+a5mekner #Yes block
+a5meknsy
 
 #The List I have to go through
 
@@ -21,6 +23,7 @@
 #r5---sn-a5meknel.googlevideo.com
 #r6---sn-a5mlrn7y.googlevideo.com
 #r6---sn-a5mlrn7y.googlevideo.com
+#yt3.ggpht.com
 
 #Maybe 
 #a5m7lnlz - 3rd Line Down
@@ -33,7 +36,7 @@
 #sn-a5msen7l - checked twice!
 #sn-a5mlrnes
 #sn-a5meknzl
-#sn-a5mlrn7l - (sn-a5mlrn7l) worked twice!          -(sn-a5mlrnes) Up there--> #Nvm
+#sn-a5mlrn7l - (sn-a5mlrn7l) worked twice!          -(sn-a5mlrnes) Up there--> #Nvm  # Both Ads and Videos :(
 #sn-a5mlrnes
 #sn-a5mlrn7r
 #sn-a5meknek
@@ -672,6 +675,214 @@ r18---sn-a5meknzs.googlevideo.com
 r19---sn-a5meknzs.googlevideo.com
 r20---sn-a5meknzs.googlevideo.com
 
+# Added - (2-6-20)
+r1---sn-a5mlrn7k.googlevideo.com
+r2---sn-a5mlrn7k.googlevideo.com
+r3---sn-a5mlrn7k.googlevideo.com
+r4---sn-a5mlrn7k.googlevideo.com
+r5---sn-a5mlrn7k.googlevideo.com
+r6---sn-a5mlrn7k.googlevideo.com
+r7---sn-a5mlrn7k.googlevideo.com
+r8---sn-a5mlrn7k.googlevideo.com
+r9---sn-a5mlrn7k.googlevideo.com
+r10---sn-a5mlrn7k.googlevideo.com
+r11---sn-a5mlrn7k.googlevideo.com
+r12---sn-a5mlrn7k.googlevideo.com
+r13---sn-a5mlrn7k.googlevideo.com
+r14---sn-a5mlrn7k.googlevideo.com
+r15---sn-a5mlrn7k.googlevideo.com
+r16---sn-a5mlrn7k.googlevideo.com
+r17---sn-a5mlrn7k.googlevideo.com
+r18---sn-a5mlrn7k.googlevideo.com
+r19---sn-a5mlrn7k.googlevideo.com
+r20---sn-a5mlrn7k.googlevideo.com
+
+# Added - (2-6-20)
+r1---sn-a5mlrn7k.googlevideo.com
+r2---sn-a5mlrn7k.googlevideo.com
+r3---sn-a5mlrn7k.googlevideo.com
+r4---sn-a5mlrn7k.googlevideo.com
+r5---sn-a5mlrn7k.googlevideo.com
+r6---sn-a5mlrn7k.googlevideo.com
+r7---sn-a5mlrn7k.googlevideo.com
+r8---sn-a5mlrn7k.googlevideo.com
+r9---sn-a5mlrn7k.googlevideo.com
+r10---sn-a5mlrn7k.googlevideo.com
+r11---sn-a5mlrn7k.googlevideo.com
+r12---sn-a5mlrn7k.googlevideo.com
+r13---sn-a5mlrn7k.googlevideo.com
+r14---sn-a5mlrn7k.googlevideo.com
+r15---sn-a5mlrn7k.googlevideo.com
+r16---sn-a5mlrn7k.googlevideo.com
+r17---sn-a5mlrn7k.googlevideo.com
+r18---sn-a5mlrn7k.googlevideo.com
+r19---sn-a5mlrn7k.googlevideo.com
+r20---sn-a5mlrn7k.googlevideo.com
+
+# Added - (2-6-20)
+r1---sn-a5msen7z.googlevideo.com
+r2---sn-a5msen7z.googlevideo.com
+r3---sn-a5msen7z.googlevideo.com
+r4---sn-a5msen7z.googlevideo.com
+r5---sn-a5msen7z.googlevideo.com
+r6---sn-a5msen7z.googlevideo.com
+r7---sn-a5msen7z.googlevideo.com
+r8---sn-a5msen7z.googlevideo.com
+r9---sn-a5msen7z.googlevideo.com
+r10---sn-a5msen7z.googlevideo.com
+r11---sn-a5msen7z.googlevideo.com
+r12---sn-a5msen7z.googlevideo.com
+r13---sn-a5msen7z.googlevideo.com
+r14---sn-a5msen7z.googlevideo.com
+r15---sn-a5msen7z.googlevideo.com
+r16---sn-a5msen7z.googlevideo.com
+r17---sn-a5msen7z.googlevideo.com
+r18---sn-a5msen7z.googlevideo.com
+r19---sn-a5msen7z.googlevideo.com
+r20---sn-a5msen7z.googlevideo.com
+
+# Added - (2-6-20)
+r1---sn-a5mekned.googlevideo.com
+r2---sn-a5mekned.googlevideo.com
+r3---sn-a5mekned.googlevideo.com
+r4---sn-a5mekned.googlevideo.com
+r5---sn-a5mekned.googlevideo.com
+r6---sn-a5mekned.googlevideo.com
+r7---sn-a5mekned.googlevideo.com
+r8---sn-a5mekned.googlevideo.com
+r9---sn-a5mekned.googlevideo.com
+r10---sn-a5mekned.googlevideo.com
+r11---sn-a5mekned.googlevideo.com
+r12---sn-a5mekned.googlevideo.com
+r13---sn-a5mekned.googlevideo.com
+r14---sn-a5mekned.googlevideo.com
+r15---sn-a5mekned.googlevideo.com
+r16---sn-a5mekned.googlevideo.com
+r17---sn-a5mekned.googlevideo.com
+r18---sn-a5mekned.googlevideo.com
+r19---sn-a5mekned.googlevideo.com
+r20---sn-a5mekned.googlevideo.com
+
+# Added - (2-6-20)
+r1---sn-a5msen7s.googlevideo.com
+r2---sn-a5msen7s.googlevideo.com
+r3---sn-a5msen7s.googlevideo.com
+r4---sn-a5msen7s.googlevideo.com
+r5---sn-a5msen7s.googlevideo.com
+r6---sn-a5msen7s.googlevideo.com
+r7---sn-a5msen7s.googlevideo.com
+r8---sn-a5msen7s.googlevideo.com
+r9---sn-a5msen7s.googlevideo.com
+r10---sn-a5msen7s.googlevideo.com
+r11---sn-a5msen7s.googlevideo.com
+r12---sn-a5msen7s.googlevideo.com
+r13---sn-a5msen7s.googlevideo.com
+r14---sn-a5msen7s.googlevideo.com
+r15---sn-a5msen7s.googlevideo.com
+r16---sn-a5msen7s.googlevideo.com
+r17---sn-a5msen7s.googlevideo.com
+r18---sn-a5msen7s.googlevideo.com
+r19---sn-a5msen7s.googlevideo.com
+r20---sn-a5msen7s.googlevideo.com
+
+# Added - (2-6-20)
+r1---sn-a5meknl7.googlevideo.com
+r2---sn-a5meknl7.googlevideo.com
+r3---sn-a5meknl7.googlevideo.com
+r4---sn-a5meknl7.googlevideo.com
+r5---sn-a5meknl7.googlevideo.com
+r6---sn-a5meknl7.googlevideo.com
+r7---sn-a5meknl7.googlevideo.com
+r8---sn-a5meknl7.googlevideo.com
+r9---sn-a5meknl7.googlevideo.com
+r10---sn-a5meknl7.googlevideo.com
+r11---sn-a5meknl7.googlevideo.com
+r12---sn-a5meknl7.googlevideo.com
+r13---sn-a5meknl7.googlevideo.com
+r14---sn-a5meknl7.googlevideo.com
+r15---sn-a5meknl7.googlevideo.com
+r16---sn-a5meknl7.googlevideo.com
+r17---sn-a5meknl7.googlevideo.com
+r18---sn-a5meknl7.googlevideo.com
+r19---sn-a5meknl7.googlevideo.com
+r20---sn-a5meknl7.googlevideo.com
+
+# Added - (2-6-20)
+r1---sn-a5mekner.googlevideo.com
+r2---sn-a5mekner.googlevideo.com
+r3---sn-a5mekner.googlevideo.com
+r4---sn-a5mekner.googlevideo.com
+r5---sn-a5mekner.googlevideo.com
+r6---sn-a5mekner.googlevideo.com
+r7---sn-a5mekner.googlevideo.com
+r8---sn-a5mekner.googlevideo.com
+r9---sn-a5mekner.googlevideo.com
+r10---sn-a5mekner.googlevideo.com
+r11---sn-a5mekner.googlevideo.com
+r12---sn-a5mekner.googlevideo.com
+r13---sn-a5mekner.googlevideo.com
+r14---sn-a5mekner.googlevideo.com
+r15---sn-a5mekner.googlevideo.com
+r16---sn-a5mekner.googlevideo.com
+r17---sn-a5mekner.googlevideo.com
+r18---sn-a5mekner.googlevideo.com
+r19---sn-a5mekner.googlevideo.com
+r20---sn-a5mekner.googlevideo.com
+
+# Added - (2-6-20)
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
+
+# Added - (2-6-20)
+
+
 
 
 
@@ -688,7 +899,7 @@ r20---sn-a5meknzs.googlevideo.com
 
 
 
-#From Website Link Above:
+# From Website Link Above:
 
 r1---sn-25ge7n7e.googlevideo.com
 r1---sn-4g57knky.googlevideo.com

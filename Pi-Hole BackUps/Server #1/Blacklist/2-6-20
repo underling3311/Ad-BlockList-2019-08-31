@@ -1,8 +1,9 @@
 #Updated ~ (2/6/20)
 
 #Exact blocking
-
-manifest.prod.boltdns.net
+basedata.thebeautifulweathercorp.io
+weatherdata.thebeautifulweathercorp.io
+eligibility-panelresearch.googlevideo.com
 0036-connect.cloudcell.com
 198.108.66.0
 _http._tcp.packages.cloud.google.com

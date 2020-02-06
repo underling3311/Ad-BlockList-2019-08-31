@@ -1,0 +1,36 @@
+#Updated ~ (2/6/20)
+
+# Was going to add before the server got hack; stopped working correctly but I don't know this will break youtube for Aiste.
+# https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Custom%20Domains/Youtube%20Ad%20Blocker%2C%20Works!
+
+https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts	
+https://mirror1.malwaredomains.com/files/justdomains	
+http://sysctl.org/cameleon/hosts	
+https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt	
+https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt	
+https://hosts-file.net/ad_servers.txt	
+https://v.firebog.net/hosts/static/SamsungSmart.txt	
+https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Custom%20Domains/Might%20Work%2C%20but%20Test	
+https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Xbox%20One%20Anti%20Ban	
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers.txt	
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_adservers_popup.txt	
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block.txt	
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_block_popup.txt	
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_specific_hide.txt	
+https://raw.githubusercontent.com/easylist/easylist/master/easylist_adult/adult_thirdparty_popup.txt	
+https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Custom%20Domains/Mircosoft%20Trackers/Part%201%2C%20Works	
+https://raw.githubusercontent.com/Ultimate-Hosts-Blacklist/anudeepND_blacklist_ad_server/master/clean.list	
+https://gist.githubusercontent.com/anudeepND/adac7982307fec6ee23605e281a57f1a/raw/5b8582b906a9497624c3f3187a49ebc23a9cf2fb/Test.txt	
+https://blocklist.site/app/dl/ads	
+https://blocklist.site/app/dl/malware	
+https://blocklist.site/app/dl/piracy	
+https://blocklist.site/app/dl/ransomware	
+https://blocklist.site/app/dl/redirect	
+https://blocklist.site/app/dl/scam	
+https://blocklist.site/app/dl/spam	
+https://blocklist.site/app/dl/tracking	
+https://raw.githubusercontent.com/easylist/easylist/master/easylist/easylist_adservers_popup.txt	
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&startdate%255Bday%255D=&startdate%255Bmonth%255D=&startdate%255Byear%255D=&useip=0.0.0.0	
+https://raw.githubusercontent.com/Akamaru/Pi-Hole-Lists/master/nomsdata.txt	
+https://pgl.yoyo.org/adservers/serverlist.php?showintro=0;hostformat=hosts	
+https://raw.githubusercontent.com/MrWaste/Ad-BlockList-2019-08-31/master/Custom%20Domains/YouTube/Google's%20Everything%20List

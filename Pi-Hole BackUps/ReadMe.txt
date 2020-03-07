@@ -1,5 +1,6 @@
 Add to all the lists!!!
 prod-m-node-1211.ssp.advertising.com
+rds-assets.nvidia.com
 
 #List Created ~ (12/29/19)
 #Added Folders ~ (1/6/20)

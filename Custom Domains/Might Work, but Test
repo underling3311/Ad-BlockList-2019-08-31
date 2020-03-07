@@ -1,11 +1,11 @@
-#List Updated (12/20/19)
-#Created By Mr. Waste
+# List Updated (12/20/19)
+# Created By Mr. Waste
 
-#Website that has graph.facebook.com on the list and others might/ should be block for security reasons.
-#(setting.rayjump.com) ~ Rayjump.com is browser hijacker that is designed to redirect the users to malicious/unreliable sites. 
-#It replaces the default browser, redirects browser searches and changes the security settings.
-#Website Link:
-#https://www.joesandbox.com/analysis/42559/0/executive#
+# Website that has graph.facebook.com on the list and others might/ should be block for security reasons.
+# (setting.rayjump.com) ~ Rayjump.com is browser hijacker that is designed to redirect the users to malicious/unreliable sites. 
+# It replaces the default browser, redirects browser searches and changes the security settings.
+# Website Link:
+# https://www.joesandbox.com/analysis/42559/0/executive#
 
 setting.rayjump.com
 #a.applovin.com
@@ -15,8 +15,8 @@ setting.rayjump.com
 graph.facebook.com
 #api.POWERMASTER.CLUB
 
-#Windows 7, 8, and 10: Now all collecting user data for Microsoft
-#https://www.infoworld.com/article/2979054/windows-7-8-10-now-all-collecting-user-data-for-microsoft.html
+# Windows 7, 8, and 10: Now all collecting user data for Microsoft
+# https://www.infoworld.com/article/2979054/windows-7-8-10-now-all-collecting-user-data-for-microsoft.html
 win.data.microsoft.com 
 settings-win.data.microsoft.com
 v10.vortex-win.data.microsoft.com
@@ -24,8 +24,8 @@ v10.events.data.microsoft.com
 v20.events.data.microsoft.com
 
 
-#Various Google Play ‘Beauty Camera’ Apps Send Users Pornographic Content, Redirect Them to Phishing Websites and Collect Their Pictures
-#https://www.reddit.com/r/netsec/comments/amcqi7/various_google_play_beauty_camera_apps_send_users/
+# Various Google Play ‘Beauty Camera’ Apps Send Users Pornographic Content, Redirect Them to Phishing Websites and Collect Their Pictures
+# https://www.reddit.com/r/netsec/comments/amcqi7/various_google_play_beauty_camera_apps_send_users/
 
 ads.aerserv.com
 ads.avocarrot.com
@@ -48,7 +48,7 @@ rt.applvn.com
 
 webview.unityads.unity3d.com
 
-#What the Fuck is wrong with me, I am allowing these domains to go through on my white list!
+# What the Fuck is wrong with me, I am allowing these domains to go through on my white list!
 Updated ~ (1/2/20)
 
 fb.com
@@ -64,13 +64,13 @@ vungle.com
 
 
 
-#New Updated (12/21/19)
+# New Updated (12/21/19)
 metrics.icloud.com
 
 
 
 
-//ClickBait
+# ClickBait
 
 2leep.com
 adblade.com
@@ -86,7 +86,7 @@ taboola.com
 zemanta
 zergnet.com
 
-//Crypto Mining
+# Crypto Mining
 
 aeon.pool.minergate.com
 arcticrise.com
@@ -160,9 +160,342 @@ de2.moriaxmr.com
 #decred.hk.nicehash.com
 #decred.in.nicehash.com
 #decred.jp.nicehash.com
-# --Right Here
+decred.LOCATION.nicehash.com
+#decred.usa.nicehash.com
+doge.netcodepool.org
+dsh.pool.minergate.com
+equihash.br.nicehash.com
+#equihash.eu.nicehash.com
+#equihash.hk.nicehash.com
+#equihash.in.nicehash.com
+#equihash.jp.nicehash.com
+equihash.LOCATION.nicehash.com
+#equihash.usa.nicehash.com
+errantshed.co.uk
+#eu-stratum.btcguild.com
+#eu.btgpool.pro
+eu.ltcrabbit.com
+eu.miningfield.com
+eu.multipool.us
+eu.stratum.bitcoin.cz
+eu.stratum.slushpool.com
+eu.stratum.viaxmr.com
+eu.wafflepool.com
+eu.zec.slushpool.com
+eu1.altminer.net
+#eu2.ethermine.org
+#fcn-dsh.pool.minergate.com
+#fcn-inf8.pool.minergate.com
+#fcn-qcn.pool.minergate.com
+#fcn-xmr.pool.minergate.com
+#fcn.pool.minergate.com
+fr01.supportxmr.com
+fr02.supportxmr.com
+fr04.supportxmr.com
+fr05.supportxmr.com
+fr06.supportxmr.com
+frankfurt-1.xmrpool.net
+ftc.give-me-coins.com
+gulf.moneroocean.stream
+hash-to-coins.com
+hash.rigpool.com
+hashbag.cc
+hk.ltcrabbit.com
+hk01.supportxmr.com
+hk02.supportxmr.com
+hodl.blockquarry.com
+#hodl.br.nicehash.com
+#hodl.eu.nicehash.com
+#hodl.hk.nicehash.com
+#hodl.in.nicehash.com
+#hodl.jp.nicehash.com
+hodl.LOCATION.nicehash.com
+#hodl.usa.nicehash.com
+inf8.pool.minergate.com
+iwantcoins.myvnc.com
+jp-stratum.btcc.com
+jp.lapool.me
+jp.stratum.viaxmr.com
+#keccak.br.nicehash.com
+#keccak.eu.nicehash.com
+#keccak.hk.nicehash.com
+#keccak.in.nicehash.com
+#keccak.jp.nicehash.com
+keccak.LOCATION.nicehash.com
+#keccak.usa.nicehash.com
+kmd.suprnova.cc
+#lbry.br.nicehash.com
+#lbry.eu.nicehash.com
+#lbry.hk.nicehash.com
+#lbry.in.nicehash.com
+#lbry.jp.nicehash.com
+lbry.LOCATION.nicehash.com
+#lbry.usa.nicehash.com
+litecoinpool.org
+louhimo.club
+lpool.name
+ltc-eu.give-me-coins.com
+ltc.coinat.com
+ltc.coinfoundry.org
+ltc.give-me-coins.com
+#ltc.pool.minergate.com
+ltc.viabtc.com
+luckpool.org
+lycheebit.com
+#lyra2re.br.nicehash.com
+#lyra2re.eu.nicehash.com
+#lyra2re.hk.nicehash.com
+#lyra2re.in.nicehash.com
+#lyra2re.jp.nicehash.com
+lyra2re.LOCATION.nicehash.com
+#vlyra2re.usa.nicehash.com
+#lyra2rev2.br.nicehash.com
+#lyra2rev2.eu.nicehash.com
+#lyra2rev2.hk.nicehash.com
+#lyra2rev2.in.nicehash.com
+#lyra2rev2.jp.nicehash.com
+lyra2rev2.LOCATION.nicehash.com
+#lyra2rev2.usa.nicehash.com
+mcn-dsh.pool.minergate.com
+mcn-inf8.pool.minergate.com
+mcn-qcn.pool.minergate.com
+mcn.pool.minergate.com
+mine.cc.st
+mine.moneropool.com
+mine.xmrpool.net
+mine2.coinmine.pl
+mineshaft1.cryptopia.co.nz
+mining.usa.hypernova.pw
+miningpool.thruhere.net
+mint.bitminter.com
+mmpool.org
+monerohash.com
+mro.extremepool.org
+#neoscrypt.br.nicehash.com
+#neoscrypt.eu.nicehash.com
+#neoscrypt.hk.nicehash.com
+#neoscrypt.in.nicehash.com
+#neoscrypt.jp.nicehash.com
+neoscrypt.LOCATION.nicehash.com
+#neoscrypt.usa.nicehash.com
+new.brutum-pool.com
+#nist5.br.nicehash.com
+#nist5.eu.nicehash.com
+#nist5.hk.nicehash.com
+#nist5.in.nicehash.com
+#nist5.jp.nicehash.com
+nist5.LOCATION.nicehash.com
+#nist5.usa.nicehash.com
+nyc01.supportxmr.com
+nyc02.supportxmr.com
+nyc03.supportxmr.com
+nyc04.supportxmr.com
+nyc05.supportxmr.com
+p2pool.org
+#pascal.br.nicehash.com
+#pascal.eu.nicehash.com
+#pascal.hk.nicehash.com
+#pascal.in.nicehash.com
+#pascal.jp.nicehash.com
+pascal.LOCATION.nicehash.com
+#pascal.usa.nicehash.com
+peercoin.ecoining.com
+phx01.supportxmr.com
+phx02.supportxmr.com
+pickaxe.online
+pivx.cryptopool.io
+pool.chaucha.cl
+pool.ekanembtc.com
+pool.groupfabric.com
+pool.hashbag.cc
+pool.ipominer.com
+pool.monero.hashvault.pro
+pool.paycoinalt.com
+pool.stalwartbucks.com
+pool.supportxmr.com
+pool.zeropool.org
+pool1.cryptopoolmining.com
+pop.pools.triplehexxx.net
+profit.pool.bitcoin.com
+qcn.pool.minergate.com
+#quark.br.nicehash.com
+#quark.eu.nicehash.com
+#quark.hk.nicehash.com
+#quark.in.nicehash.com
+#quark.jp.nicehash.com
+quark.LOCATION.nicehash.com
+#quark.usa.nicehash.com
+#qubit.br.nicehash.com
+#qubit.eu.nicehash.com
+#qubit.hk.nicehash.com
+#qubit.in.nicehash.com
+#qubit.jp.nicehash.com
+qubit.LOCATION.nicehash.com
+#qubit.usa.nicehash.com
+ru.moriaxmr.com
+sc.f2pool.com
+#scrypt.br.nicehash.com
+#scrypt.eu.nicehash.com
+#scrypt.hk.nicehash.com
+#scrypt.in.nicehash.com
+#scrypt.jp.nicehash.com
+scrypt.LOCATION.nicehash.com
+#scrypt.usa.nicehash.com
+#scryptjanenf16.br.nicehash.com
+#scryptjanenf16.eu.nicehash.com
+#scryptjanenf16.hk.nicehash.com
+#scryptjanenf16.in.nicehash.com
+#scryptjanenf16.jp.nicehash.com
+scryptjanenf16.LOCATION.nicehash.com
+#scryptjanenf16.usa.nicehash.com
+#scryptnf.br.nicehash.com
+#scryptnf.eu.nicehash.com
+#scryptnf.hk.nicehash.com
+#scryptnf.in.nicehash.com
+#scryptnf.jp.nicehash.com
+scryptnf.LOCATION.nicehash.com
+#scryptnf.usa.nicehash.com
+sea.wafflepool.com
+serenity.hiddenjadestone.com
+server.com
+sg.stratum.slushpool.com
+sg1.supportxmr.com
+sha.eobot.com
+#sha256.br.nicehash.com
+#sha256.eu.nicehash.com
+#sha256.hk.nicehash.com
+#sha256.in.nicehash.com
+#sha256.jp.nicehash.com
+#sha256.LOCATION.nicehash.com
+#sha256.usa.nicehash.com
+#sia.br.nicehash.com
+#sia.eu.nicehash.com
+#sia.hk.nicehash.com
+#sia.in.nicehash.com
+#sia.jp.nicehash.com
+sia.LOCATION.nicehash.com
+#sia.usa.nicehash.com
+siamining.com
+skunk.LOCATION.nicehash.com
+solo.antpool.com
+solo.ckpool.org
+sopool.us
+steamoctanepool.com
+stratum-eu.coin-miners.info
+stratum-zec.antpool.com
+stratum.1ex.trade
+stratum.aikapool.com
+stratum.antpool.com
+stratum.asicpool.info
+stratum.bcmonster.com
+stratum.bitcoin.cz
+stratum.bitcoin.inc.hk
+stratum.btcc.com
+stratum.btcchina.com
+stratum.bw.com
+stratum.chainworksindustries.com
+stratum.ckpool.org
+stratum.coinspool.cu.cc
+stratum.f2pool.com
+stratum.f2xtpool.com
+stratum.kano.is
+stratum.myBTCcoin.com
+stratum.slushpool.com
+stratum.solo.prohashing.com
+stratum.sye.host
+stratum.viaxmr.com
+theminingpool.thruhere.net
+tsdjuuytw7udw.ru
+us-backup.supportxmr.com
+us-east.multipool.us
+us-east.stratum.bitcoin.cz
+us-east.stratum.slushpool.com
+us-east.zec.slushpool.com
+us-west.multipool.us
+us-west.siamining.com
+us.clevermining.com
+us.litecoinpool.org
+us.ltcrabbit.com
+us.miningfield.com
+us.moriaxmr.com
+us.ss.btc.com
+us.stratum.viaxmr.com
+us1-zcash.flypool.org
+us3.wemineltc.com
+usa.tompool.org
+useast.wafflepool.com
+uswest.wafflepool.com
+vegas-1.xmrpool.net
+vegas-backup.xmrpool.net
+vip.antpool.com
+vtc.alwayshashing.com
+vtc.coinfoundry.org
+vtc.poolmining.org
+#whirlpoolx.br.nicehash.com
+#whirlpoolx.eu.nicehash.com
+#whirlpoolx.hk.nicehash.com
+#whirlpoolx.in.nicehash.com
+#whirlpoolx.jp.nicehash.com
+whirlpoolx.LOCATION.nicehash.com
+#whirlpoolx.usa.nicehash.com
+#x11.br.nicehash.com
+#x11.eu.nicehash.com
+#x11.hk.nicehash.com
+#x11.in.nicehash.com
+#x11.jp.nicehash.com
+x11.LOCATION.nicehash.com
+#x11.usa.nicehash.com
+#x11gost.br.nicehash.com
+#x11gost.eu.nicehash.com
+#x11gost.hk.nicehash.com
+#x11gost.in.nicehash.com
+#x11gost.jp.nicehash.com
+x11gost.LOCATION.nicehash.com
+#x11gost.usa.nicehash.com
+#x13.br.nicehash.com
+#x13.eu.nicehash.com
+#x13.hk.nicehash.com
+#x13.in.nicehash.com
+#x13.jp.nicehash.com
+x13.LOCATION.nicehash.com
+#x13.usa.nicehash.com
+#x15.br.nicehash.com
+#x15.eu.nicehash.com
+#x15.hk.nicehash.com
+#x15.in.nicehash.com
+#x15.jp.nicehash.com
+x15.LOCATION.nicehash.com
+#x15.usa.nicehash.com
+xdn.pool.minergate.com
+xmr-asia1.nanopool.org
+xmr-au1.nanopool.org
+xmr-eu.dwarfpool.com
+xmr-eu.suprnova.cc
+xmr-eu1.nanopool.org
+xmr-eu2.nanopool.org
+xmr-jp1.nanopool.org
+xmr-us-east1.nanopool.org
+xmr-us-west1.nanopool.org
+xmr-us.mixpools.org
+xmr-usa.dwarfpool.com
+xmr.crypto-pool.fr
+xmr.mixpools.org
+xmr.pool.minergate.com
+xst.argakiig.us
+xzc.suprnova.cc
+yiimp.ccminer.org
+ypool.net
+zec-hk.f2pool.com
+zec.f2pool.com
+zec.slushpool.com
+zec.suprnova.cc
+zmine.io
 
-//Crypto Mining (Ip Addresses)
+
+# Porn
+xxx.xxx.xxx.xxx
+
+# Crypto Mining (Ip Addresses)
 
 208.113.166.44
 52.8.47.33
@@ -170,7 +503,7 @@ de2.moriaxmr.com
 81.96.84.178
 
 
-//Email Trackers Beta
+# Email Trackers Beta
 
 api.mixpanel.com
 app.outreach.io
@@ -186,7 +519,7 @@ tracking.cirrusinsight.com
 via.intercom.io
 web.frontapp.com
 
-//Facebook Apps Beta
+# Facebook Apps Beta
 
 connect.facebook.net.edgekey.net
 ct-m-fbx.fbsbx.com
@@ -212,7 +545,7 @@ static.ak.facebook.com.edgesuite.net
 tfbnw.net
 whatsapp.com
 
-//Facebook Apps Beta (Ip Addresses)
+# Facebook Apps Beta (Ip Addresses)
 
 31.13.24.0/21
 31.13.64.0/19
@@ -306,15 +639,15 @@ whatsapp.com
 173.252.96.0/19
 204.15.20.0/22
 
-//Facebook_inc_ipv6
+# Facebook_inc_ipv6
 2a03:2880::/29
 
-//Facebook_sdk
+# Facebook_sdk
 api.facebook.com
 connect.facebook.net
 graph.facebook.com
 
-//Game Ads
+# Game Ads
 ads.mopub.com
 ads.nexage.com
 vungle.com
@@ -322,7 +655,7 @@ moatads.com
 tenjin.io
 voodoo-analytics.io
 
-//Marketing
+# Marketing
 adnxs.com
 adwords.com
 analytics.google.com
@@ -348,7 +681,7 @@ richmetrics.com
 sb.scorecardresearch.com
 sc-analytics.appspot.com
 
-//Ransomware
+# Ransomware
 2bdfb.spinakrosa.at
 2gdb4.leoraorage.at
 5rport45vcdef345adfkksawe.bematvocal.at
@@ -416,7 +749,7 @@ y4bxj.adozeuds.com
 ytrest84y5i456hghadefdsd.pontogrot.com
 yyre45dbvn2nhbefbmh.begumvelic.at
 
-//Snapchat Analytics
+# Snapchat Analytics
 snapads.com
 analytics.snapchat.com
 app-analytics.snapchat.com
@@ -428,7 +761,7 @@ sc-analytics.appspot.com
 
 
 
-//Saunders Tech (12/20/19)
+# Saunders Tech (12/20/19)
 
 ocsp.int-x3.letsencrypt.org
 ocsp.apple.com
@@ -444,7 +777,7 @@ stats.g.doubleclick.net
 adclick.g.douclick.net
 
 
-#https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
+# https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt
 
 adjust.io
 airbrake.io

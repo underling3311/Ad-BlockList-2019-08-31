@@ -3,6 +3,8 @@
 
 # Add to all the lists!!!
 
+ocsp.digicert.com # - Never Remove!!
+
 prod-m-node-1211.ssp.advertising.com
 rds-assets.nvidia.com
 
@@ -13,7 +15,6 @@ wildcard.twimg.com
 oem.twimg.com
 www.ad.com
 baseball.fantasysports.yahoo.com
-ocsp.digicert.com # - Never Remove!!
 fc.yahoo.com
 www.wsj.com
 api.getpocket.com

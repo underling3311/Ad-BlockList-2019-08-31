@@ -25,8 +25,8 @@ ksn-stat-geo.kaspersky-labs.com
 
 # White List:
 
-hypestat.com
 udc.yahoo.com -(Breaks Yahoo Login in)
+hypestat.com
 login.yahoo.com
 maxhash.org
 
@@ -35,10 +35,13 @@ tv.youtube.com
 fe3.delivery.mp.microsoft.com
 go.microsoft.com
 activation.sls.microsoft.com
+privateinternetaccess.com
+www.privateinternetaccess.com
 
 
 
-Private Internet Access Addesses
+
+# Private Internet Access Addesses
 ara.privateinternetaccess.com
 aus-melbourne.privateinternetaccess.com
 aus.privateinternetaccess.com
@@ -92,6 +95,7 @@ us-texas.privateinternetaccess.com
 us-west.privateinternetaccess.com
 www.privateinternetaccess.com
 
+# Other Private Internet Access Addesses
 email2.privateinternetaccess.com
 email.privateinternetaccess.com
 files.privateinternetaccess.com

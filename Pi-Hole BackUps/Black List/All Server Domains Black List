@@ -1,4 +1,4 @@
-# Update ~ (3/7/20)
+# Update ~ (3/27/20)
 # For all Pi Holes
 
 # Add to all the lists!!!
@@ -23,6 +23,29 @@ www.getpocket.com
 ksn-stat-geo.kaspersky-labs.com
 marketing-tii-statamic-assets-ca-central-1.s3.ca-central-1.amazonaws.com
 
+
+
+# Need to add to all Later... - (Old List I found on the Desktop!)
+
+i.liadm.com
+clicktale.pantherssl.com
+medals.bizrate.com
+a.quora.com
+fast.wistia.com seals.resellerratings.com
+483cda5f439700fab03b-6195bc77e724f6265ff507b1dc015ddb.ssl.cf1.rackcdn.com
+fg8vvsvnieiv3ej16jby.litix.io
+embedwistia-a.akamaihd.net
+www.googlecommerce.com
+q.quora.com
+embed-ssl.wistia.com
+web.vortex.data.msn.com
+www.nanovisor.io
+agps.location.live.net
+inference.location.live.net
+
+
+
+
 # White List:
 
 udc.yahoo.com -(Breaks Yahoo Login in)
@@ -41,6 +64,10 @@ www.privateinternetaccess.com
 oceanofgames.com
 ocean0fgames.com
 www.ocean0fgames.com
+
+
+
+
 
 
 

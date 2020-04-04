@@ -57,6 +57,7 @@ www.wsj.com
 # Need to add to all Later... - (Old List I found on the Desktop!- Found - (2-15-20))
 
 data-private.samsunghealth.com
+device-metrics-us.amazon.com
 static.whatsapp.net
 growth-pa.googleapis.com
 log.mangaina.com
@@ -94,6 +95,10 @@ Maybe Add Later:
 rdd.vzw.com
 mqtt-mini.facebook.com
 
+# I don't know just maybe just block..
+bcmls2.glpals.com
+gllto.glpals.com
+playatoms-pa.googleapis.com
 
 # Private Internet Access Addesses
 ara.privateinternetaccess.com

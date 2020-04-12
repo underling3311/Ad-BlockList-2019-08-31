@@ -73,7 +73,9 @@ chat.whatsapp.com
 # White List:
 
 apiservices.krxd.net - (Breaks Micheals Craft Store Emails)
+geolocation.onetrust.com - (CloudFare Login Page Error)
 udc.yahoo.com -(Breaks Yahoo Login in)
+
 
 
 activation.sls.microsoft.com
@@ -82,6 +84,7 @@ api.spotify.com
 apiservices.krxd.net
 crumbs.robinhood.com
 fe3.delivery.mp.microsoft.com
+geolocation.onetrust.com
 go.microsoft.com
 hypestat.com
 images.wondershare.com

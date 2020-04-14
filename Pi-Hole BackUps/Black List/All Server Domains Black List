@@ -77,6 +77,12 @@ geolocation.onetrust.com - (CloudFare Login Page Error)
 udc.yahoo.com -(Breaks Yahoo Login in)
 
 
+assets.coinbase.com
+static-assets.coinbase.com
+dynamic-assets.coinbase.com
+sessions.coinbase.com
+
+
 
 activation.sls.microsoft.com
 analytics.robinhood.com

@@ -1,9 +1,11 @@
-# Update ~ (3/27/20)
 # For all Pi Holes
 
 # Add to all the lists!!!
 
+# Info Description:
 ocsp.digicert.com # - Never Remove!!
+skyapi.live.net - (Aiste's List ONLY!!)
+static.whatsapp.net - (Aiste's List ONLY!!) ~ (Breaks Mr. Waste's Phone)
 
 # New List of Block List, Alphabetical Order
 
@@ -12,11 +14,16 @@ ocsp.digicert.com # - Never Remove!!
 a.quora.com
 agps.location.live.net
 api.getpocket.com
+api.whatsapp.com
 arc.msn.com.nsatc.net
 baseball.fantasysports.yahoo.com
-clicktale.pantherssl.com
+cdn.cookielaw.org
 centralized.zaloapp.com
+chat.whatsapp.com
+clicktale.pantherssl.com
+data-private.samsunghealth.com
 dev2.teamredminer.com
+device-metrics-us.amazon.com
 embed-ssl.wistia.com
 embedwistia-a.akamaihd.net
 fast.wistia.com seals.resellerratings.com
@@ -24,11 +31,13 @@ fc.yahoo.com
 fg8vvsvnieiv3ej16jby.litix.io
 g.msn.com.nsatc.net
 getpocket.com
+growth-pa.googleapis.com
 inference.location.live.net
 ip5.afdorigin-prod-am02.afdogw.com
 ksn-stat-geo.kaspersky-labs.com
 lcstg2.samsungcloudsolution.net
 location-inference-westus.cloudapp.net
+log.mangaina.com
 logger.instagram.com
 logs.x1.com
 marketing-tii-statamic-assets-ca-central-1.s3.ca-central-1.amazonaws.com
@@ -55,36 +64,41 @@ www.googlecommerce.com
 www.nanovisor.io
 www.wsj.com
 
-# Need to add to all Later... - (Old List I found on the Desktop!- Found - (2-15-20))
 
-data-private.samsunghealth.com
-device-metrics-us.amazon.com
-static.whatsapp.net
-growth-pa.googleapis.com
-log.mangaina.com
+# Start Here, Add Later - (Black List):
 
 
-skyapi.live.net
 
 
-api.whatsapp.com
-chat.whatsapp.com
-cdn.cookielaw.org
+
 
 
 
 
 # White List:
 
+# Info Description:
 apiservices.krxd.net - (Breaks Micheals Craft Store Emails)
 geolocation.onetrust.com - (CloudFare Login Page Error)
 udc.yahoo.com -(Breaks Yahoo Login in)
+assets.coinbase.com - (Breaks Coin Base)
+static-assets.coinbase.com - (Breaks Coin Base)
+dynamic-assets.coinbase.com - (Breaks Coin Base)
+sessions.coinbase.com - (Breaks Coin Base)
+files.constantcontact.com - (Breaks Mom's Emails Links)
+r20.rs6.net - (Breaks Mom's Emails Links)
+static.whatsapp.net - (Need for What's Up app to Run!)
+manifest.googlevideo.com - (Breaks Youtube TV)
 
 
-assets.coinbase.com
-static-assets.coinbase.com
-dynamic-assets.coinbase.com
-sessions.coinbase.com
+
+# Start Here, Add Later - (White List):
+
+
+
+
+
+
 
 
 
@@ -92,8 +106,12 @@ activation.sls.microsoft.com
 analytics.robinhood.com
 api.spotify.com
 apiservices.krxd.net
+assets.coinbase.com
+cdn1d-static-shared.phncdn.com
 crumbs.robinhood.com
+dynamic-assets.coinbase.com
 fe3.delivery.mp.microsoft.com
+files.constantcontact.com
 geolocation.onetrust.com
 go.microsoft.com
 hypestat.com
@@ -105,15 +123,15 @@ nummus.robinhood.com
 ocean0fgames.com
 oceanofgames.com
 privateinternetaccess.com
+r20.rs6.net
+sessions.coinbase.com
+static-assets.coinbase.com
 tv.youtube.com
 vimeo.com
 www.logmein.com
 www.ocean0fgames.com
 www.privateinternetaccess.com
 www.wondershare.com
-r20.rs6.net
-files.constantcontact.com
-cdn1d-static-shared.phncdn.com
 
 
 Maybe Add Later: 
@@ -124,6 +142,8 @@ mqtt-mini.facebook.com
 bcmls2.glpals.com
 gllto.glpals.com
 playatoms-pa.googleapis.com
+
+
 
 # Private Internet Access Addesses
 ara.privateinternetaccess.com

@@ -70,10 +70,43 @@ www.wsj.com
 
 geo.yahoo.com - Remove it out of whitelist
 
+ads.servenobid.com
 books-analytics-events.apple.com
 firebaseinstallations.googleapis.com
 edge-mqtt.facebook.com
-scontent.xx.fbcdn.net	
+scontent.xx.fbcdn.net
+
+
+ds-geoycpi-uno-lite.gycpi.b.yahoodns.net
+api.mousegesturesapi.com
+graph.fbpigeon.com
+us.ynuf.aliapp.org
+api-logncrash.cloud.toast.com
+setting-logncrash.cloud.toast.com
+ew1.reg.bigdata.ssp.samsung.com
+b-graph.facebook.com
+niantic.helpshift.com
+amazon.sa
+www.amazon.sa
+cdn.cookielaw.org
+syn-dir.sn.eamobile.com
+ping1.tnt-ea.com
+s.ispoofer.com
+niantic.helpshift.com
+version.bind
+
+scontent-frx5-1.xx.fbcdn.net
+video-frt3-2.xx.fbcdn.net
+video-frx5-1.xx.fbcdn.net
+scontent.cdninstagram.com
+
+
+www.wikipedia.org - www.arbor-observatory.com
+dns-test.research.a10protects.com -li105-174.members.linode.com
+version.bind - scan-09.shadowserver.org
+dnsscan.shadowserver.org - scan-09a.shadowserver.org
+
+logging.googleapis.com.us-central1-a.c.eng-carport-256717.internal
 
 
 # White List:
@@ -113,8 +146,8 @@ www.slideshare.net
 www.iobit.com
 download.iobit.com
 privateinternetaccess.com.edgekey.net
-
-
+sync.brave.com
+cdnjs.cloudflare.com
 
 
 

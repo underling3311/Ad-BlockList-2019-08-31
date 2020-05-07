@@ -13,6 +13,7 @@ api-logncrash.cloud.toast.com
 api.getpocket.com
 api.mousegesturesapi.com
 api.whatsapp.com
+arc.msn.com
 arc.msn.com.nsatc.net
 aria.microsoft.com
 ascstats.iobit.com
@@ -25,7 +26,10 @@ centralized.zaloapp.com
 chat.whatsapp.com
 checkmarx.g07.yahoodns.net
 clicktale.pantherssl.com
+co4.telecommand.telemetry.microsoft.com.akadns.net
 collections.md.mp.microsoft.com
+cs11.wpc.v0cdn.net
+cs.dds.microsoft.com
 data-private.samsunghealth.com
 data.grammarly.com
 data.ripple.com
@@ -33,14 +37,17 @@ datanyze-logos.s3.amazonaws.com
 dataxtoplevel.data.g01.yahoodns.net
 dev2.teamredminer.com
 device-metrics-us.amazon.com
+dmd.metaservices.microsoft.com.akadns.net
 dns-test.research.a10protects.com
 dnsscan.shadowserver.org
 ds-any-ycpi-uno.aycpi.b.yahoodns.net
 ds-geoycpi-uno-deluxe.gycpi.b.yahoodns.net
 ds-geoycpi-uno-lite.gycpi.b.yahoodns.net
+e-msedge.net
 embed-ssl.wistia.com
 embedwistia-a.akamaihd.net
 ew1.reg.bigdata.ssp.samsung.com
+f-log-extension.grammarly.io
 fam-geo-atsv2.prod.media.g03.yahoodns.net
 fast.wistia.com seals.resellerratings.com
 fc.yahoo.com
@@ -66,15 +73,18 @@ medals.bizrate.com
 modern.watson.data.microsoft.com.akadns.net
 niantic.helpshift.com
 o2.ycpi.vip.gq1.yahoo.com
+oca.watson.data.microsoft.com.akadns.net
 oem.twimg.com
 p3a.brave.com
 ping1.tnt-ea.com
 prod-m-node-1211.ssp.advertising.com
+prod.telemetry.ros.rockstargames.com
 q.quora.com
 query.prod.cms.rt.microsoft.com
 rds-assets.nvidia.com
 ris.api.iris.microsoft.com
 ris.api.iris.microsoft.com.akadns.net
+s-msedge.net
 s-overseer.avcdn.net
 s.ispoofer.com
 safebrowsing.brave.com
@@ -90,6 +100,7 @@ telecommand.telemetry.microsoft.com.akadns.net
 uofmresearch.isr.umich.edu
 us.ynuf.aliapp.org
 vip5.afdorigin-prod-am02.afdogw.com
+vip5.afdorigin-prod-ch02.afdogw.com
 vip5.afdorigin-prod-i.liadm.com
 watson.telemetry.microsoft.com
 web.vortex.data.microsoft.com
@@ -105,23 +116,5 @@ www.wsj.com
 ycpi-data.xobni.g01.yahoodns.net
 ycpi-prod4cws.xobni.g03.yahoodns.net
 
-safebrowsing.googleapis.com
-aria.microsoft.com
-l-0002.l-msedge.net
-data.ripple.com
-arc.msn.com
-co4.telecommand.telemetry.microsoft.com.akadns.net
-cs11.wpc.v0cdn.net
-s-msedge.net
-dmd.metaservices.microsoft.com.akadns.net
-modern.watson.data.microsoft.com.akadns.net
-e-msedge.net
-location-inference-westus.cloudapp.net
-vip5.afdorigin-prod-ch02.afdogw.com
-data.grammarly.com
-f-log-extension.grammarly.io
-oca.watson.data.microsoft.com.akadns.net
-cs.dds.microsoft.com
-prod.telemetry.ros.rockstargames.com
 
 

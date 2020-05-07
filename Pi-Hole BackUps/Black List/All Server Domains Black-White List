@@ -102,8 +102,6 @@ statics-marketingsites-eas-ms-com.akamaized.net
 s-overseer.avcdn.net
 collections.md.mp.microsoft.com
 datanyze-logos.s3.amazonaws.com
-p.ssl.fastly.net
-f2.shared.global.fastly.net
 safebrowsing.brave.com
 p3a.brave.com
 ycpi-prod4cws.xobni.g03.yahoodns.net
@@ -178,8 +176,8 @@ www.mediafire.com
 linuxconfig.org
 dovewallet.com
 c-msedge.net
-
-
+p.ssl.fastly.net
+f2.shared.global.fastly.net
 
 
 

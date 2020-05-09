@@ -24,14 +24,13 @@ at.atwola.com
 b-graph.facebook.com
 beacons.gvt2.com
 bnc.it
-cdn.at.atwola.com
 config.inmobi.com
 data-private.samsunghealth.com
 data.flurry.com
 e.crashlytics.com
 e.reddit.com
 elb-telemetry-rdr2-prod-1584453389.us-west-2.elb.amazonaws.com
-events.gfe/nvidia.com
+events.gfe.nvidia.com
 events.mapbox.com
 ew1.reg.bigdata.ssp.samsung.com
 facebook.net
@@ -84,7 +83,7 @@ self.events.data.microsoft.com
 settings-win.data.microsoft.com
 settings.crashlytics.com
 settings.data.microsoft.com
-sqm-telemetry.microsoft.comz
+sqm-telemetry.microsoft.com
 ssl.google-analytics.com
 static.trafficjunky.com
 sxj8.adj.st

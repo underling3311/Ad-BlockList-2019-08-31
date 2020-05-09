@@ -171,31 +171,35 @@ r20.rs6.net - (Breaks Mom's Emails Links)
 static.whatsapp.net - (Need for What's Up app to Run!)
 manifest.googlevideo.com - (Breaks Youtube TV)
 t.co - (Breaks Twitter Links but is also used for ads!)
+a-0001.a-afdentry.net.trafficmanager.net - (Breaks bing, search online in task manager)
 
 
 # Start Here, Add Later - (White List):
 
-www.mediafire.com
-linuxconfig.org
-dovewallet.com
-c-msedge.net
-p.ssl.fastly.net
-f2.shared.global.fastly.net
-l-0002.l-msedge.net
-client.hip.live.com
 
 
+
+
+
+
+
+
+a-0001.a-afdentry.net.trafficmanager.net
 activation.sls.microsoft.com
 analytics.robinhood.com
 api.spotify.com
 apiservices.krxd.net
 app.launchdarkly.com
 assets.coinbase.com
+c-msedge.net
 cdn1d-static-shared.phncdn.com
 cdnjs.cloudflare.com
+client.hip.live.com
 crumbs.robinhood.com
+dovewallet.com
 download.iobit.com
 dynamic-assets.coinbase.com
+f2.shared.global.fastly.net
 fe3.delivery.mp.microsoft.com
 files.constantcontact.com
 geolocation.onetrust.com
@@ -203,12 +207,15 @@ go.microsoft.com
 hypestat.com
 images.wondershare.com
 installers.privateinternetaccess.com
+l-0002.l-msedge.net
+linuxconfig.org
 login.yahoo.com
 manifest.googlevideo.com
 maxhash.org
 nummus.robinhood.com
 ocean0fgames.com
 oceanofgames.com
+p.ssl.fastly.net
 packages.cloud.google.com
 privateinternetaccess.com
 privateinternetaccess.com.edgekey.net
@@ -235,6 +242,7 @@ us-washingtondc.privateinternetaccess.com
 vimeo.com
 www.iobit.com
 www.logmein.com
+www.mediafire.com
 www.ocean0fgames.com
 www.privateinternetaccess.com
 www.slideshare.net

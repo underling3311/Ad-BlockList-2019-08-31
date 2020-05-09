@@ -137,7 +137,7 @@ prod.telemetry.ros.rockstargames.com
 uphold.report-uri.com
 startup-iobit-com.us-east-1.elasticbeanstalk.com
 startup.iobit.com
-
+improving.duckduckgo.com
 
 
 # From Server
@@ -176,8 +176,8 @@ a-0001.a-afdentry.net.trafficmanager.net - (Breaks bing, search online in task m
 
 # Start Here, Add Later - (White List):
 
-
-
+mobile-data.s3.brave.com
+adblock-data.s3.brave.com
 
 
 

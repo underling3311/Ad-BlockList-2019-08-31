@@ -185,12 +185,16 @@ manifest.googlevideo.com - (Breaks Youtube TV)
 t.co - (Breaks Twitter Links but is also used for ads!)
 a-0001.a-afdentry.net.trafficmanager.net - (Breaks bing, search online in task manager)
 e673.dsce9.akamaiedge.net - (Breaks Apple Store from loading)
+a-0003.a-msedge.net - (Blocks www.msn.com) - (Only for 70)
+
 
 # Start Here, Add Later - (White List):
 
 mobile-data.s3.brave.com
 adblock-data.s3.brave.com
 e673.dsce9.akamaiedge.net
+www.msn.com
+
 
 
 

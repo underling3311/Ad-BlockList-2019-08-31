@@ -152,10 +152,19 @@ datarouter-prod.ak.epicgames.com
 datarouter-weighted.ol.epicgames.com
 datarouter-svc-prod06-pub-ak-1156843745.us-east-1.elb.amazonaws.com
 
+eulatracking-public-service-prod.ak.epicgames.com
 eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 eulatracking-public-service-prod06.ol.epicgames.com
+eulatracking-svc-prod06-pub-ak-1978193191.us-east-1.elb.amazonaws.com
+
+
+world-gen.g.aaplimg.com
+b.gslb.aaplimg.com
+a.gslb.aaplimg.com
 
 
 
 
-eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
+
+
+# eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com

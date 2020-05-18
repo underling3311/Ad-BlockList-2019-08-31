@@ -155,7 +155,7 @@ datarouter-svc-prod06-pub-ak-1156843745.us-east-1.elb.amazonaws.com
 eulatracking-public-service-prod.ak.epicgames.com
 eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
 eulatracking-public-service-prod06.ol.epicgames.com
-eulatracking-svc-prod06-pub-ak-1978193191.us-east-1.elb.amazonaws.com
+
 
 
 world-gen.g.aaplimg.com
@@ -188,3 +188,4 @@ e1879.e7.akamaiedge.net #sb.scorecardresearch.com  - Sub Domain
 
 
 # eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
+# eulatracking-svc-prod06-pub-ak-1978193191.us-east-1.elb.amazonaws.com - Breaks Launching Games

@@ -147,6 +147,9 @@ tm-rgl-prod.ros.rockstargames.com
 elb-telemetry-rgl-prod-1710895762.us-west-2.elb.amazonaws.com
 
 datarouter-weighted.ol.epicgames.com
+datarouter-svc-prod06-pub-ak-1156843745.us-east-1.elb.amazonaws.com
 
+eulatracking-svc-prod06-pub-1257580502.us-east-1.elb.amazonaws.com
+eulatracking-public-service-prod06.ol.epicgames.com
 
 

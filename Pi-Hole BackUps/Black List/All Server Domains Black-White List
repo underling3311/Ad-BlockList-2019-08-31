@@ -186,6 +186,8 @@ t.co - (Breaks Twitter Links but is also used for ads!)
 a-0001.a-afdentry.net.trafficmanager.net - (Breaks bing, search online in task manager)
 e673.dsce9.akamaiedge.net - (Breaks Apple Store from loading)
 a-0003.a-msedge.net - (Blocks www.msn.com) - (Only for 70)
+ssl.marfeelcdn.com - (Breaks www.ghacks.net - Not White Listed Yet)
+
 
 
 # Start Here, Add Later - (White List):

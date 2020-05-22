@@ -187,6 +187,7 @@ a-0001.a-afdentry.net.trafficmanager.net - (Breaks bing, search online in task m
 e673.dsce9.akamaiedge.net - (Breaks Apple Store from loading)
 a-0003.a-msedge.net - (Blocks www.msn.com) - (Only for 70)
 ssl.marfeelcdn.com - (Breaks www.ghacks.net - Not White Listed Yet)
+click.microsoftstoreemail.com - (Breaks Microsoft Email Pictures, whole page blank)
 
 
 
@@ -199,6 +200,19 @@ www.msn.com
 mandrillapp.com
 api.epicgames.dev
 eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
+click.microsoftstoreemail.com
+image.em.carters.com
+mi.carters.com
+click.bible.com
+status.geotrust.com
+click.instacartemail.com
+deeplink.instacartemail.com
+app.bible.com
+click.microsoftstoreemail.com
+
+
+
+
 
 
 

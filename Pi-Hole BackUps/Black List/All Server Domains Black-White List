@@ -404,3 +404,11 @@ privateinternetaccess.com.edgekey.net
 proxy-nl.privateinternetaccess.com
 resolver1.privateinternetaccess.com
 support.privateinternetaccess.com
+
+
+# Pfsense WhiteList
+
+assets.micpn.com
+ink1001.com
+a1843.g.akamai.net
+1drv.com

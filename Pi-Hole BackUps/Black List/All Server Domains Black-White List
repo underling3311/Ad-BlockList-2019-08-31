@@ -161,6 +161,8 @@ events.data.msn.cn
 events.data.msn.com
 www.firebaseremoteconfig.googleapis.com
 www.logging.googleapis.com
+logger.foxitcloud.com
+logger-221948952.us-east-1.elb.amazonaws.com
 
 
 

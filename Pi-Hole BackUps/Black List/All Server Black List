@@ -132,6 +132,10 @@ dc.applicationinsights.microsoft.com
 logger.foxitcloud.com
 logger-221948952.us-east-1.elb.amazonaws.com
 ssp-prod-telemerty-eastus-appgwv2.inmobi.com
+telemetry.sdk.inmobi.com
+
+
+
 
 
 

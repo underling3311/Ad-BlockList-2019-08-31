@@ -129,6 +129,11 @@ cdn.heapanalytics.com
 sub.cdn.heapanalytics.com
 dc.services.visualstudio.com
 dc.applicationinsights.microsoft.com
+logger.foxitcloud.com
+logger-221948952.us-east-1.elb.amazonaws.com
+
+
+
 
 track.cordial.io
 trcksp.cordial.io

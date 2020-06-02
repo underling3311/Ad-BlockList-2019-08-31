@@ -153,7 +153,6 @@ tracking-website-prod07-epic-961842049.us-east-1.elb.amazonaws.com
 tracking.epicgames.com
 
 metrics.ol.epicgames.com
-eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 tm-rgl-prod.ros.rockstargames.com
 elb-telemetry-rgl-prod-1710895762.us-west-2.elb.amazonaws.com
 

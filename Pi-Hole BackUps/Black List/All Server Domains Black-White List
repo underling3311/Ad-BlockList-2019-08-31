@@ -213,6 +213,7 @@ a-0003.a-msedge.net - (Blocks www.msn.com) - (Only for 70)
 ssl.marfeelcdn.com - (Breaks www.ghacks.net - Not White Listed Yet)
 click.microsoftstoreemail.com - (Breaks Microsoft Email Pictures, whole page blank)
 ae01.alicdn.com - (Breaks Aliexpress.com)
+cs22.wpc.v0cdn.net - (Breaks Visual Studio Code Updates)
 
 
 # Start Here, Add Later - (White List):
@@ -229,6 +230,8 @@ fandom.com
 d2gatte9o95jao.cloudfront.net
 d2c8v52ll5s99u.cloudfront.net
 s3-1.amazonaws.com
+cs22.wpc.v0cdn.net
+
 
 
 

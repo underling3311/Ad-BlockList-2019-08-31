@@ -1,6 +1,7 @@
 # 100 domains
 
 ade.googlesyndication.com
+adj.st
 adrotation-prod.s3.amazonaws.com
 ads.mopub.com
 ads.youtube.com
@@ -14,12 +15,15 @@ analytics-static.ugc.bazaarvoice.com
 analytics.archive.org
 analytics.brave.com
 analytics.plaid.com
+analytics.query.yahoo.com
 api2.branch.io
 api.facebook.com
 app.adjust.com
+applovin.com
 arc.msn.com
 at.atwola.com
 b-graph.facebook.com
+bat.bing.com
 beacons.gvt2.com
 bnc.it
 config.inmobi.com
@@ -62,18 +66,15 @@ ksn-stat-geo.kaspersky-labs.com
 lcstg2.samsungcloudsolution.net
 logging.googleapis.com
 mobile.pipe.aria.microsoft.com
-nu9k.adj.st
 ocsp.digicert.com
 p3a.brave.com
+pagead2.googlesyndication.com
 pandora.app.link
 pinterest-alternate.app.link
 prod.telemetry.ros.rockstargames.com
-q4mn.adj.st
 qq.com
-qqrp.adj.st
 reports.crashlytics.com
 ring.api.kustomerapp.com
-rt.applovin.com
 rt.applvn.com
 sb.scorecardresearch.com
 sc-analytics.appspot.com
@@ -84,22 +85,40 @@ settings.data.microsoft.com
 sqm-telemetry.microsoft.com
 ssl.google-analytics.com
 static.trafficjunky.com
-sxj8.adj.st
+syndication.twitter.com
+taobao.com
 telemetry.gfe.nvidia.com
 telemetry.nvidia.com
+tpc.googlesyndication.com
 track.wattpad.com
 watson.telemetry.microsoft.com
+world-gen.g.aaplimg.com
 www.ad.com
 www.amazon.sa
 www.facebook.com
 www.google-analytics.com
 www.googlecommerce.com
-xw7k.adj.st
 z-m-graph.facebook.com
 z.cn
-tpc.googlesyndication.com
-analytics.query.yahoo.com
-pagead2.googlesyndication.com
+
+# New
+tps30.doubleverify.com
+continuum.dds.microsoft.com
+firebaseinappmessaging.googleapis.com
+telemetry.sdk.inmobi.com
+api.revenuecat.com
+nexusrules.officeapps.live.com
+
+
+
+# Remove
+nu9k.adj.st
+q4mn.adj.st
+qqrp.adj.st
+sxj8.adj.st
+xw7k.adj.st
+
+
 
 
 Wish I could add but can't :(
@@ -108,7 +127,6 @@ tps30.doubleverify.com
 static.doubleclick.net
 ad.doubleclick.net
 pubads.g.doubleclick.net	
-tps30.doubleverify.com
 secure-gg.imrworldwide.com
 googleads4.g.doubleclick.ne
 pixel.adsafeprotected.com

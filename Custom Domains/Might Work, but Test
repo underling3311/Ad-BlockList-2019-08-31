@@ -1,4 +1,4 @@
-# List Updated (12/20/19)
+# List Updated (8/14/2020)
 # Created By Mr. Waste
 
 # Website that has graph.facebook.com on the list and others might/ should be block for security reasons.
@@ -78,15 +78,56 @@ adsnative.com
 cdn.nmcdn.us
 content-ad.net
 content.ad
+img-taboola.com
 mgid.com
 newsmaxfeednetwork.com
 outbrain.com
 revcontent.com
 taboola.com
-zemanta
+zemanta.com
 zergnet.com
 
 # Crypto Mining
+
+altminer.net
+arcticrise.com
+bitcoin.cz
+bitconnectpool.co
+cn.ss.btc.com
+coinmine.pl
+coins.arstechnica.com
+cryptopia.co.nz
+cryptopool.io
+ethermine.org
+hashbag.cc
+Ipool.name
+litecoinpool.org
+louhimo.club
+ltcrabbit.com
+luckpool.org
+lycheebit.com
+minergate.com
+mint.bitminter.com
+mmpool.org
+monero.hashvault.pro
+moneropool.com
+moriaxmr.com
+multipool.us
+nanopool.org
+netcodepool.org
+nicehash.com
+paycoinalt.com
+rigpool.com
+siamining.com
+slushpool.com
+supportxmr.com
+viabtc.com
+viaxmr.com
+wafflepool.com
+xmrpool.net
+ypool.net
+zeropool.org
+zmine.io
 
 aeon.pool.minergate.com
 arcticrise.com
@@ -502,6 +543,33 @@ xxx.xxx.xxx.xxx
 54.91.161.78
 81.96.84.178
 
+# Data Trackers
+
+amplitude.com
+app.adjust.com
+applovin.com
+applvn.com
+bluekai.com
+branch.io
+chartboost.com
+fitanalytics.com
+flurry.com
+localytics.com
+mob.com
+mtrtb.com
+mxpnl.com
+newrelic.com
+nr-data.net
+play.googleapis.com
+plugco.in
+scarabresearch.com
+sdk.foursquare.com
+segment.com
+segment.io
+umeng.com
+umengcloud.com
+voicefive.com
+
 
 # Email Trackers Beta
 
@@ -511,7 +579,6 @@ app.yesware.com
 bl-1.com
 go.rjmetrics.com
 go.toutapp.com
-list-manage.com
 mailstat.us
 t.hsms06.com
 t.yesware.com
@@ -542,8 +609,16 @@ profile.ak.facebook.com.edgesuite.net
 s-static.ak.facebook.com.edgekey.net
 sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
 static.ak.facebook.com.edgesuite.net
+sac-h-ct-m-fbx.fbsbx.com.online-metrix.net
+static.ak.facebook.com.edgesuite.net
 tfbnw.net
 whatsapp.com
+
+# Facebook Trackers
+
+api.facebook.com
+connect.facebook.net
+graph.facebook.com
 
 # Facebook Apps Beta (Ip Addresses)
 
@@ -650,12 +725,20 @@ graph.facebook.com
 # Game Ads
 ads.mopub.com
 ads.nexage.com
-vungle.com
 moatads.com
 tenjin.io
 voodoo-analytics.io
+vungle.com
+
+# Google Shopping Ads 
+
+ad.doubleclick.net
+adservice.google.com
+googleadservices.com
 
 # Marketing
+2mdn.net
+3lift.com
 adnxs.com
 adwords.com
 analytics.google.com
@@ -664,13 +747,14 @@ api.mixpanel.com
 app-measurement.com
 appboy.com
 braze.com
-doubleclick.net
+consumertrack.com
 fabric.io
 facebook.net
 fb.com
 firebase.com
+flashtalking.com
 google-analytics.com
-googleadservices.com
+googlesyndication.com
 heapanalytics.com
 hm.baidu.com
 in.getclicky.com
@@ -681,81 +765,146 @@ richmetrics.com
 sb.scorecardresearch.com
 sc-analytics.appspot.com
 
+# Marketing Trackers II
+
+api.branch.io
+api.instabug.com
+api.segment.io
+cdn-settings.segment.com
+cdn.branch.io
+e.crashlytics.com
+events.appsflyer.com
+mobile-service.segment.com
+sdk.appsflyer.com
+settings.crashlytics.com
+t.appsflyer.com
+
+
+
 # Ransomware
+
 2bdfb.spinakrosa.at
 2gdb4.leoraorage.at
 5rport45vcdef345adfkksawe.bematvocal.at
 6g4ds.froekuge.com
+8b4bb47tiaolhy4uhhlfaqerg.sofarany.at
+9hrds.wolfcrap.at
 74nfnjhlq45nkgws4hbdbk45wekfjhqw4talefgnv.curryfort.at
 88fga.ketteaero.com
-8b4bb47tiaolhy4uhhlfaqerg.sofarany.at
 94dbhbj3l4blaeyfgl7q45glbaer.giponfeste.at
 974gfbjhb23hbfkyfaby3byqlyuebvly5q254y.mendilobo.com
-9hrds.wolfcrap.at
 a64gfdsjhb4htbiwaysbdvukyft5q.zobodine.at
+angortra.at
 aq3ef.goimocoa.at
 as3ws.fopyirr.com
 b4youfred5485jgsa3453f.italazudda.com
+begumvelic.at
+bematvocal.at
 bfd45u8ehdklrfqwlhbhjbgqw.niptana.at
+bonmawp.at
+boonmower.com
+curryfort.at
 d34fa.lasmeio.com
 dd7bsndhr45nfksdnkferfer.javakale.at
 f4dsbjhb45wfiuqeib4fkqeg.meccaledgy.at
+feustude.at
 fl43s.toabolt.at
+fopyirr.com
+froekuge.com
 g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
 gfkuwflbhsjdabnu4nfukerfqwlfwr4rw.ringbalor.com
+giponfeste.at
+goimocoa.at
+greetingshere.at
 gwbak.nickymaru.com
 gwe32fdr74bhfsyujb34gfszfv.zatcurr.com
 h3ds4.maconslab.com
-h54dc.leverdaze.at
 h5nuwefkuh134ljngkasdbasfg.corolbugan.com
+h54dc.leverdaze.at
+hareuna.at
+hateflux.com
+heliofetch.at
+hotchunman.com
 hrfgd74nfksjdcnnklnwefvdsf.materdunst.com
 i5ndw.titlecorta.at
 ibf4d.ukegaub.at
 ik4dm.mazerunci.at
 irhng84nfaslbv243ljtblwqjrb.pinnafaon.at
 irudhkunrlfu25fhkaqw34blr5qlby4tgq43t.orrisbirth.com
-k234s.ascotsprue.com
-k34ew.keyedgell.com
+italazudda.com
+italisumo.at
+javakale.at
 k3cxd.pileanoted.com
-k47d3.proporr.com
 k4restportgonst34d23r.oftpony.at
+k34ew.keyedgell.com
+k47d3.proporr.com
+k234s.ascotsprue.com
 kbv5s.kylepasse.at
+ketteaero.com
 kh5jfnvkk5twerfnku5twuilrnglnuw45yhlw.vealsithe.com
 kkd47eh4hdjshb5t.angortra.at
 kkr4hbwdklf234bfl84uoqleflqwrfqwuelfh.brazabaya.com
+kraskula.com
+kylepasse.at
 l123d.feustude.at
+lasmeio.com
+leaama.at
+leoraorage.at
+leverdaze.at
+maconslab.com
+materdunst.com
+mazerunci.at
+meccaledgy.at
+mendilobo.com
+nickymaru.com
+niptana.at
 nn54djhfnrnm4dnjnerfsd.replylaten.at
 nnrtsdf34dsjhb23rsdf.spannflow.com
 o4dm3.leaama.at
 oehknf74ohqlfnpq9rhfgcq93g.hateflux.com
 p54dhkus4tlkfashdb6vjetgsdfg.greetingshere.at
+pinnafaon.at
 po4dbsjbneljhrlbvaueqrgveatv.bonmawp.at
 prest54538hnksjn4kjfwdbhwere.hotchunman.com
 pts764gt354fder34fsqw45gdfsavadfgsfg.kraskula.com
 rbg4hfbilrf7to452p89hrfq.boonmower.com
+replylaten.at
+slewirk.at
+sofarany.at
 sondr5344ygfweyjbfkw4fhsefv.heliofetch.at
+spinakrosa.at
 t54ndnku456ngkwsudqer.wallymac.com
 tes543berda73i48fsdfsd.keratadze.at
+titlecorta.at
+toabolt.at
 tt54rfdjhb34rfbnknaerg.milerteddy.com
 u24er.ovaarmor.com
 u54bbnhf354fbkh254tbkhjbgy8258gnkwerg.tahaplap.com
 uhufnlsad7bhf4ykqfbevmxergwrth.himfinn.com
 uiredn4njfsa4234bafb32ygjdawfvs.frascuft.com
 uj5nj.onanwhit.com
+ukegaub.at
 vewrb.italisumo.at
 w6bfg4hahn5bfnlsafgchkvg5fwsfvrt.hareuna.at
+wolfcrap.at
 wor4d.slewirk.at
 y4bxj.adozeuds.com
 ytrest84y5i456hghadefdsd.pontogrot.com
 yyre45dbvn2nhbefbmh.begumvelic.at
+zatcurr.com
+zobodine.at
+
+# Reporting
+
+api.bugfender.com
+sessions.bugsnag.com
 
 # Snapchat Analytics
-snapads.com
+
 analytics.snapchat.com
 app-analytics.snapchat.com
 sc-analytics.appspot.com
-
-
+snapads.com
 
 
 

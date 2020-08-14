@@ -763,7 +763,7 @@ sc-analytics.appspot.com
 
 # Saunders Tech (12/20/19)
 
-ocsp.int-x3.letsencrypt.org
+# ocsp.int-x3.letsencrypt.org
 ocsp.apple.com
 world-gen.g.aaplimg.com
 mesu.apple.com

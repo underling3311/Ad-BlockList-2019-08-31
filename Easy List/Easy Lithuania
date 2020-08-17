@@ -80,10 +80,8 @@ delfi.lt##iframe[src*="alio.lt/posPages.html"]
 15min.lt##IMG[alt="Klasikinės muzikos gerbėjams dovana – „Vivace Vilnius“ festivalio koncertai"]
 15min.lt##[data-block="container-teleloto"] *
 15min.lt##[href^="http://adsplius.lt/trackers"] > *
-15min.lt##[href^="http://bit.ly/"][target="_blank"]
 15min.lt##a[href*="optibet.lt"]
 15min.lt##a[href*="perku.perlas.lt"]
-15min.lt##a[href^="https://bit.ly"]
 15min.lt##div[id*="google_ads_iframe_"]
 15min.lt##div[id="ad-holder"]
 15min.lt##iframe[id*="google_ads_iframe_"]

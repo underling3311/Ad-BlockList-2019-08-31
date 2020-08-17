@@ -49,7 +49,7 @@ rt.applvn.com
 webview.unityads.unity3d.com
 
 # What the Fuck is wrong with me, I am allowing these domains to go through on my white list!
-Updated ~ (1/2/20)
+# Updated ~ (1/2/20)
 
 fb.com
 fb.me
@@ -667,7 +667,7 @@ graph.facebook.com
 173.252.96.0/19
 204.15.20.0/22
 
-//Facebook Inc (Ip Addresses)
+# Facebook Inc (Ip Addresses)
 
 31.13.24.0/21
 31.13.64.0/19
@@ -945,6 +945,7 @@ count.ly
 crashlytics.com
 crittercism.com
 custom-blacklisted-tracking-example.com
+data.flurry.com
 do-not-tracker.org
 eviltracker.net
 flurry.com

@@ -1,3 +1,8 @@
+#crl3.digicert.com
+#digicert.com
+#ocsp.digicert.com
+
+
 modders.ros.rockstargames.com
 modders.ros1.rockstargames.com
 modders.ros2.rockstargames.com
@@ -430,9 +435,7 @@ prod.anticheat 1.01.ros.rockstargames.com
 prod.anticheat 1.00.ros.rockstargames.com
 crl.comodoca.com
 crl.usertrust.com
-crl3.digicert.com
 crt.comodoca.com
-digicert.com
 g1.symcb.com
 g2.symcb.com
 g3.symcb.com
@@ -446,7 +449,6 @@ g10.symcb.com
 geotrust.com
 localhost
 ocsp.comodoca.com
-ocsp.digicert.com
 ocsp.thawte.com
 ts-aia.ws.symantec.com
 ts-ocsp.ws.symantec.com

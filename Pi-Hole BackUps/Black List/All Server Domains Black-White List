@@ -195,6 +195,7 @@ scontent.cdninstagram.com
 # White List:
 
 # Info Description:
+a-0003.a-msedge.net - (Breaks Microsoft Egde Bing Search Home Page)
 apiservices.krxd.net - (Breaks Micheals Craft Store Emails)
 geolocation.onetrust.com - (CloudFare Login Page Error)
 udc.yahoo.com -(Breaks Yahoo Login in)
@@ -238,7 +239,7 @@ vi.raptor.ebaydesc.com
 
 force.com
 target.clickfunnels.com
-
+a-0003.a-msedge.net
 
 
 mandrillapp.com

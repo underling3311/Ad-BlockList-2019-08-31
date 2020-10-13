@@ -66,7 +66,6 @@ ksn-stat-geo.kaspersky-labs.com
 lcstg2.samsungcloudsolution.net
 logging.googleapis.com
 mobile.pipe.aria.microsoft.com
-ocsp.digicert.com
 p3a.brave.com
 pagead2.googlesyndication.com
 pandora.app.link
@@ -99,6 +98,7 @@ www.google-analytics.com
 www.googlecommerce.com
 z-m-graph.facebook.com
 z.cn
+# Added in List, Removed others that weren't any good
 sessions.bugsnag.com
 notify.bugsnag.com
 edge.fullstory.com

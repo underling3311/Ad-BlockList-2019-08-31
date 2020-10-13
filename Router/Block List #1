@@ -92,7 +92,6 @@ telemetry.nvidia.com
 tpc.googlesyndication.com
 track.wattpad.com
 watson.telemetry.microsoft.com
-world-gen.g.aaplimg.com
 www.ad.com
 www.amazon.sa
 www.facebook.com
@@ -100,6 +99,10 @@ www.google-analytics.com
 www.googlecommerce.com
 z-m-graph.facebook.com
 z.cn
+sessions.bugsnag.com
+notify.bugsnag.com
+edge.fullstory.com
+
 
 # New
 tps30.doubleverify.com

@@ -164,8 +164,6 @@ wpad.waste
 disqus.com
 crash.steampowered.com
 s3-us-west-1.amazonaws.com
-logfiles.zoom.us
-us04logfiles.zoom.us
 s3-1.amazonaws.com
 app.link
 spade.sci.twitch.tv
@@ -189,7 +187,7 @@ crashlyticsreports-pa.googleapis.com
 cs22.wpc.v0cdn.net
 ib.adnxs.com
 dpm.demdex.net
-world-gen.g.aaplimg.com
+
 a.gslb.aaplimg.com
 b.gslb.aaplimg.com
 crl.apple.com
@@ -200,6 +198,17 @@ log.gomlab.com
 gomlab-log-17054681.us-east-1.elb.amazonaws.com
 
 
+
+log.zoom.us
+logfiles-va-3.zoom.us
+logfiles-va-4.zoom.us
+logfiles-va-5.zoom.us
+logfiles-va-6.zoom.us
+logfiles-va-za1.zoom.us
+logfiles-va-zd1.zoom.us
+logfiles-va.zoom.us
+logfiles.zoom.us
+us04logfiles.zoom.us
 
 
 track.cordial.io

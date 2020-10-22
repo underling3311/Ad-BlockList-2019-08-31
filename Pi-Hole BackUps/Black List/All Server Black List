@@ -53,6 +53,8 @@ fast.wistia.com seals.resellerratings.com
 fc.yahoo.com
 fg8vvsvnieiv3ej16jby.litix.io
 firebaseinstallations.googleapis.com
+firebaseinstallations.googleapis.com.domain.name
+firebase-settings.crashlytics.com
 g.msn.com.nsatc.net
 geoloc-fv.api.zynga.com
 getpocket.com
@@ -268,6 +270,17 @@ www.firebaseremoteconfig.googleapis.com
 www.logging.googleapis.com
 analytics.chegg.com
 geomobileservices-pa.googleapis.com
+geomobileservices-pa.googleapis.com.domain.name
+ping.klei.ca
+ap-northeast-2.ping.klei.ca
+ap-southeast-1.ping.klei.ca
+ap-southeast-2.ping.klei.ca
+cn-northwest-1.ping.klei.ca
+eu-central-1.ping.klei.ca
+sa-east-1.ping.klei.ca
+us-east-1.ping.klei.ca
+us-west-2.ping.klei.ca
+plutotv.onelink.me
 
 
 

@@ -1,5 +1,11 @@
 # For all Pi Holes
 # Black Listed Everything!
+# Apple DOH List:
+uslax1-doh-001.aaplimg.com
+v1.gslb.aaplimg.com
+v2.gslb.aaplimg.com
+doh.dns.apple.com
+
 
 483cda5f439700fab03b-6195bc77e724f6265ff507b1dc015ddb.ssl.cf1.rackcdn.com
 a.quora.com

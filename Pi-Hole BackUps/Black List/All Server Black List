@@ -278,8 +278,6 @@ events.data.msn.com
 www.firebaseremoteconfig.googleapis.com
 www.logging.googleapis.com
 analytics.chegg.com
-geomobileservices-pa.googleapis.com
-geomobileservices-pa.googleapis.com.domain.name
 ping.klei.ca
 ap-northeast-2.ping.klei.ca
 ap-southeast-1.ping.klei.ca
@@ -305,6 +303,7 @@ wyze-device-log.s3.us-west-2.amazonaws.com
 
 # eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 # eulatracking-svc-prod06-pub-ak-1978193191.us-east-1.elb.amazonaws.com - Breaks Launching Games
-
+# geomobileservices-pa.googleapis.com - Breaks Downloading in Play Store
+geomobileservices-pa.googleapis.com.domain.name
 newlog.wondergame.sg
 bidata.lilithgame.com

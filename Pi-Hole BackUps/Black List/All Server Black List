@@ -94,7 +94,6 @@ query.prod.cms.rt.microsoft.com
 rds-assets.nvidia.com
 ris.api.iris.microsoft.com
 ris.api.iris.microsoft.com.akadns.net
-s-msedge.net
 s-overseer.avcdn.net
 s.ispoofer.com
 safebrowsing.brave.com
@@ -301,14 +300,18 @@ p2-ew6kubq3o55rk-hvug6lp32fc3f7e6-656163-i2-v6exp3.ds.metric.gstatic.com
 p2-ew6kubq3o55rk-hvug6lp32fc3f7e6-656163-i1-v6exp3.v4.metric.gstatic.com
 p2-g3ha6mpc5wweq-cm57ju7dksaketg5-if-v6exp3-v4.metric.gstatic.com
 p2-g3ha6mpc5wweq-cm57ju7dksaketg5-738447-i1-v6exp3.v4.metric.gstatic.com
+p2-kjkryej3grzuq-lvyeajv7cqx4okj3-if-v6exp3-v4.metric.gstatic.com
+p2-kjkryej3grzuq-lvyeajv7cqx4okj3-573959-i1-v6exp3.v4.metric.gstatic.com
+analytics.quizizz.com
 retcode-us-west-1.arms.aliyuncs.com
 acjs.aliyun.com
 err.taobao.com
 fourier.taobao.com
-
+analytics.quizizz
 
 wyze-device-log.s3.us-west-2.amazonaws.com
 
+# s-msedge.net
 # eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 # eulatracking-svc-prod06-pub-ak-1978193191.us-east-1.elb.amazonaws.com - Breaks Launching Games
 # geomobileservices-pa.googleapis.com - Breaks Downloading in Play Store

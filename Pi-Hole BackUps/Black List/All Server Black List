@@ -6,6 +6,43 @@
 #v2.gslb.aaplimg.com
 #doh.dns.apple.com
 
+# metric.gstatic.com List
+p2-c7yk5kcwmqtue-n3glbwsb7bbwlgti-552937-i2-v6exp3.ds.metric.gstatic.com
+p2-c7yk5kcwmqtue-n3glbwsb7bbwlgti-if-v6exp3-v4.metric.gstatic.com
+p2-dpsxu5sk7khww-soevxgedvzl2khm5-989853-i1-v6exp3.v4.metric.gstatic.com
+p2-dpsxu5sk7khww-soevxgedvzl2khm5-989853-i2-v6exp3.ds.metric.gstatic.com
+p2-eakjwxbsrw7jg-mmsbvherjrpnqjci-632987-i1-v6exp3.v4.metric.gstatic.com
+p2-eakjwxbsrw7jg-mmsbvherjrpnqjci-632987-i2-v6exp3.ds.metric.gstatic.com
+p2-eakjwxbsrw7jg-mmsbvherjrpnqjci-if-v6exp3-v4.metric.gstatic.com
+p2-edgdy5fdd23jc-uq3pguzzcdnpo2nh-888026-i1-v6exp3.ds.metric.gstatic.com
+p2-edgdy5fdd23jc-uq3pguzzcdnpo2nh-888026-i2-v6exp3.v4.metric.gstatic.com
+p2-edgdy5fdd23jc-uq3pguzzcdnpo2nh-if-v6exp3-v4.metric.gstatic.com
+p2-ew6kubq3o55rk-hvug6lp32fc3f7e6-656163-i1-v6exp3.v4.metric.gstatic.com
+p2-ew6kubq3o55rk-hvug6lp32fc3f7e6-656163-i2-v6exp3.ds.metric.gstatic.com
+p2-g3ha6mpc5wweq-cm57ju7dksaketg5-738447-i1-v6exp3.v4.metric.gstatic.com
+p2-g3ha6mpc5wweq-cm57ju7dksaketg5-if-v6exp3-v4.metric.gstatic.com
+p2-h2p62etpspq34-ddnjfys6ejjgkcse-378803-i1-v6exp3.v4.metric.gstatic.com
+p2-h2p62etpspq34-ddnjfys6ejjgkcse-378803-i2-v6exp3.ds.metric.gstatic.com
+p2-h2p62etpspq34-ddnjfys6ejjgkcse-if-v6exp3-v4.metric.gstatic.com
+p2-hc3r6mz7g74o6-hl6hlhzx57y5yumu-286327-i1-v6exp3-ds.metric.ipv6test.net
+p2-hc3r6mz7g74o6-hl6hlhzx57y5yumu-286327-i2-v6exp3-ds.metric.ipv6test.com
+p2-hc3r6mz7g74o6-hl6hlhzx57y5yumu-if-v6exp3-v4.metric.gstatic.com
+p2-hz6sobtdsvc3e-joit6vf47oyve36l-546518-i2-v6exp3.v4.metric.gstatic.com
+p2-hz6sobtdsvc3e-joit6vf47oyve36l-if-v6exp3-v4.metric.gstatic.com
+p2-i5562g5kfodlc-mdvvqtpbp3tamfa7-358102-i1-v6exp3.ds.metric.gstatic.com
+p2-i5562g5kfodlc-mdvvqtpbp3tamfa7-if-v6exp3-v4.metric.gstatic.com
+p2-k5x3fzte35kia-vub5kcizxtu6ce6w-952896-i1-v6exp3.ds.metric.gstatic.com
+p2-k5x3fzte35kia-vub5kcizxtu6ce6w-952896-i2-v6exp3.v4.metric.gstatic.com
+p2-k5x3fzte35kia-vub5kcizxtu6ce6w-if-v6exp3-v4.metric.gstatic.com
+p2-kjkryej3grzuq-lvyeajv7cqx4okj3-573959-i1-v6exp3.v4.metric.gstatic.com
+p2-kjkryej3grzuq-lvyeajv7cqx4okj3-if-v6exp3-v4.metric.gstatic.com
+p2-mppanvpl4i7x4-3rspfzwixah5rth3-539023-i1-v6exp3.v4.metric.gstatic.com
+p2-mppanvpl4i7x4-3rspfzwixah5rth3-539023-i2-v6exp3.ds.metric.gstatic.com
+p2-mppanvpl4i7x4-3rspfzwixah5rth3-if-v6exp3-v4.metric.gstatic.com
+p2-nkxu37mq2v7oc-2oj5nu3ibzmgfkuv-136269-i1-v6exp3.v4.metric.gstatic.com
+p2-nkxu37mq2v7oc-2oj5nu3ibzmgfkuv-if-v6exp3-v4.metric.gstatic.com
+
+
 
 483cda5f439700fab03b-6195bc77e724f6265ff507b1dc015ddb.ssl.cf1.rackcdn.com
 a.quora.com
@@ -296,21 +333,7 @@ redirector.gvt1.com
 flash.banners-service.info
 shda-elb-external-notify-1949274016.eu-west-1.elb.amazonaws.com
 embrace.io
-p2-ew6kubq3o55rk-hvug6lp32fc3f7e6-656163-i2-v6exp3.ds.metric.gstatic.com
-p2-ew6kubq3o55rk-hvug6lp32fc3f7e6-656163-i1-v6exp3.v4.metric.gstatic.com
-p2-g3ha6mpc5wweq-cm57ju7dksaketg5-if-v6exp3-v4.metric.gstatic.com
-p2-g3ha6mpc5wweq-cm57ju7dksaketg5-738447-i1-v6exp3.v4.metric.gstatic.com
-p2-kjkryej3grzuq-lvyeajv7cqx4okj3-if-v6exp3-v4.metric.gstatic.com
-p2-kjkryej3grzuq-lvyeajv7cqx4okj3-573959-i1-v6exp3.v4.metric.gstatic.com
-p2-k5x3fzte35kia-vub5kcizxtu6ce6w-if-v6exp3-v4.metric.gstatic.com
-p2-k5x3fzte35kia-vub5kcizxtu6ce6w-952896-i1-v6exp3.ds.metric.gstatic.com
-p2-k5x3fzte35kia-vub5kcizxtu6ce6w-952896-i2-v6exp3.v4.metric.gstatic.com
-p2-hz6sobtdsvc3e-joit6vf47oyve36l-if-v6exp3-v4.metric.gstatic.com
-p2-hz6sobtdsvc3e-joit6vf47oyve36l-546518-i2-v6exp3.v4.metric.gstatic.com
-p2-dpsxu5sk7khww-soevxgedvzl2khm5-989853-i1-v6exp3.v4.metric.gstatic.com
-p2-dpsxu5sk7khww-soevxgedvzl2khm5-989853-i2-v6exp3.ds.metric.gstatic.com
-p2-i5562g5kfodlc-mdvvqtpbp3tamfa7-if-v6exp3-v4.metric.gstatic.com
-p2-i5562g5kfodlc-mdvvqtpbp3tamfa7-358102-i1-v6exp3.ds.metric.gstatic.com
+
 
 analytics.quizizz.com
 retcode-us-west-1.arms.aliyuncs.com

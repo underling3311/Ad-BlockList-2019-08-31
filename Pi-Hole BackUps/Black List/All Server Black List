@@ -346,7 +346,6 @@ fourier.taobao.com
 analytics.quizizz
 analytics.basicattentiontoken.org
 api.searchads.apple.com
-reports.exodus-privacy.eu.org	
 android-safebrowsing.google.com
 stats.lineageos.org
 
@@ -356,6 +355,7 @@ wyze-device-log.s3.us-west-2.amazonaws.com
 # eos-gateway-ingress-prod.befa.live.use1a.on.epicgames.com
 # eulatracking-svc-prod06-pub-ak-1978193191.us-east-1.elb.amazonaws.com - Breaks Launching Games
 # geomobileservices-pa.googleapis.com - Breaks Downloading in Play Store
+# reports.exodus-privacy.eu.org	# Breaks https://reports.exodus-privacy.eu.org/
 geomobileservices-pa.googleapis.com.domain.name
 newlog.wondergame.sg
 bidata.lilithgame.com

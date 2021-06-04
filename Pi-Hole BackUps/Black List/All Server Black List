@@ -348,6 +348,45 @@ analytics.basicattentiontoken.org
 api.searchads.apple.com
 android-safebrowsing.google.com
 stats.lineageos.org
+ap-doesnotexist-1.ping.klei.ca	
+gnar.grammarly.com
+data.grammarly.com
+f-log-editor.grammarly.com
+f-log-editor.grammarly.io
+
+
+f-log-editor-debug.grammarly.io
+# Found From f-log-editor-debug.grammarly.io  Website: https://threatintelligenceplatform.com/report/f-log-editor-debug.grammarly.io/wyzUoORAhx
+f-log-at.grammarly.io
+f-log-balto.grammarly.io
+f-log-csp.grammarly.io
+f-log-editor.grammarly.io
+f-log-extension.grammarly.io
+f-log-js-plugin.grammarly.io
+f-log-mac-extension.grammarly.io
+f-log-mobile-ios.grammarly.io
+ec2-52-21-152-200.compute-1.amazonaws.com
+ec2-107-23-202-169.compute-1.amazonaws.com
+ec2-54-86-111-163.compute-1.amazonaws.com
+ec2-52-72-165-80.compute-1.amazonaws.com
+ec2-52-20-187-139.compute-1.amazonaws.com
+ec2-54-87-110-85.compute-1.amazonaws.com
+f-log-mobile.grammarly.io
+ec2-54-81-133-1.compute-1.amazonaws.com
+f-log-pl.grammarly.io
+f-log-officeaddin.grammarly.io
+ec2-3-208-239-138.compute-1.amazonaws.com
+f-log.grammarly.io
+f-log-officeaddinjs.grammarly.io
+f-log-win-extension.grammarly.io
+f-log-test.grammarly.io
+f-log-wrex.grammarly.io
+f-log-features-ci.grammarly.io
+f-log-editor-debug.grammarly.io
+
+
+
+
 
 wyze-device-log.s3.us-west-2.amazonaws.com
 

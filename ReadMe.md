@@ -2,8 +2,6 @@
 
 If you have come across this page your in the right place for Pi-Hole/Ads & Trackers Blocker Lists.
 
-Any Donations with BAT from the Browser Brave will be great Appreicated! Donations will give you VIP access to my ADVANCED BLOCK LISTS!
-Link: https://github.com/MrWaste?tab=repositories
 ~Just message me to claim access to these advanced lists!
 Update Oftenly!
 <p>

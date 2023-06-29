@@ -1,4 +1,4 @@
-# Mr. Waste's Oringal List
+# My Oringal List
 
 If you have come across this page your in the right place for Pi-Hole/Ads & Trackers Blocker Lists.
 
@@ -18,7 +18,7 @@ Updated 2.7 Million ~ (Feb 18, 2020)
   
 ## What's Better than just a list? It's Brave & these lists combined
 
-![Truly Faster, Safer](https://github.com/MrWaste/Malwarebytes-hpHosts-Full-Lists/blob/master/Gif/Brave%20Browser%20Speed%20Comparison%202019.gif)
+![Truly Faster, Safer](https://github.com/underling3311/Malwarebytes-hpHosts-Full-Lists/blob/master/Gif/Brave%20Browser%20Speed%20Comparison%202019.gif)
 
 <a href="https://brave.com/">This is Brave:</a> 
 <p>
